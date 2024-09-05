@@ -1,0 +1,102 @@
+---
+title: "Lab 1: Introduction"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+---
+
+
+
+## {{< fa list >}} Outline {.center}
+
++ About Myself
++ Syllabus
++ Motivation
++ Plan for this course
+
+<!-- ### {{< fa bullseye >}} Learning Objectives
+### {{< fa asterisk >}} Reference {.center} -->
+
+<!-- 
+:::{.goals}
+::::{.goals-header}
+Learning Objectives
+::::
+::::{.goals-container}
++ to be able to use the basic features of RStudio.
++ to be able to use the basic features of R.
+::::
+:::
+
+:::{.ideas}
+::::{.ideas-header}
+Ideas
+::::
+::::{.ideas-container}
++ to be able to use the basic features of RStudio.
++ to be able to use the basic features of R.
+::::
+:::
+
+
+:::{.stopthink}
+::::{.stopthink-header}
+stopthink
+::::
+::::{.stopthink-container}
++ to be able to use the basic features of RStudio.
++ to be able to use the basic features of R.
+::::
+::: -->
+
+## About Myself {.center}
+
++ **Shunkei Kakimoto**
+  + from Japan
+  + 3rd year Ph.D. in Applied Economics
+  + Area of interests: Environmental and Resource Economics, Water Economics, Groundwater Management, and Empirical analysis of climate change impact on agricultural production.
+  + I was TA in Econometrics I and II (APEC 8211-12) and Micro Economics III and IV (APEC 8003-04)
+
+:::{.fragment .fade-up}
++ Office hours:
+  + Tuesday 1:00-2:00 pm
+  + Thursday 1:00-2:00 pm
+  + Or by appointment (email me)
+:::
+
+
+## Test slide  {.center}
+
+### Sub-subsection
+
+test
+
+ 
+
+## Test slide 2  {.center}
+
+
+
+## Test slide 3 {.center}
+
+
+
