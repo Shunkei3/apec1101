@@ -29,9 +29,8 @@ format:
 ## {{< fa list >}} Outline {.center}
 
 + About Myself
-+ Syllabus
-+ Motivation
-+ Plan for this course
++ Some Important Information
++ Introduction to Economic Way of Thinking
 
 <!-- ### {{< fa bullseye >}} Learning Objectives
 ### {{< fa asterisk >}} Reference {.center} -->
@@ -70,33 +69,190 @@ stopthink
 
 ## About Myself {.center}
 
+::: {.columns}
+::: {.column width=40%}
 + **Shunkei Kakimoto**
-  + from Japan
-  + 3rd year Ph.D. in Applied Economics
-  + Area of interests: Environmental and Resource Economics, Water Economics, Groundwater Management, and Empirical analysis of climate change impact on agricultural production.
-  + I was TA in Econometrics I and II (APEC 8211-12) and Micro Economics III and IV (APEC 8003-04)
++ from Japan
++ 3rd year Ph.D. in Applied Economics
+
+<br>
+
++ I was a TA in Econometrics and Microeconomics for Ph.D.
++ First time teaching Microeconomics to undergraudate students!
+:::
+
+::: {.column width=60%}
+![](image/pictures.png){width=70%}
+:::
+:::
+
+
+## Contact Infomation {.center}
++ {{< fa envelope >}} **Email**: kakim002@umn.edu
+  + Feel free to shoot me an email if you have any questions or concerns. I'll get back to you as soon as possible.
++ {{< fa building-columns >}} **Office**: 316a Ruttan Hall
+
+<br>
 
 :::{.fragment .fade-up}
-+ Office hours:
++ **Office hours in Waite Library**:
   + Tuesday 1:00-2:00 pm
   + Thursday 1:00-2:00 pm
   + Or by appointment (email me)
 :::
 
 
-## Test slide  {.center}
+## Assignment Procedure  {.center}
 
-### Sub-subsection
+You have two options to submit your assignments:
 
-test
++ **Option 1**: Submit a physical copy of your assignment in person during class.
++ **Option 2**: Send me your assignment (e.g., pdf) by email (Please CC Tade)
+
+<br>
+
+:::{.fragment .fade-up}
+::: {.callout-caution}
+## Please make sure to:
++ When you submit your assignments by email, please make it [**one single PDF file**]{style="color:red;"} (please do not send multiple files).
+:::
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+::: {.callout-important}
+## Syllabus is important!
+
+Please read the syllabus carefully. It contains important information about the course, including the grading policy, assignment due dates, the course content, and the schedule.
+:::
+:::
+
+
+:::{.notes}
++ The syllabus is important because it contains important information about the course, including the grading policy, assignment due dates, the course content, and the schedule.
++ It's like a rule book for the course. 
+
+
++ I am here to help you succeed in this course. I want to you help you out if you are having a difficult time. So, please don't hesitate to reach out to me if you have any questions or concerns.
+:::
+
+
+# Introduction
+
+##  {.center}
+
+:::{.goals}
+::::{.goals-header}
+Learning Objectives of This Course
+::::
+::::{.goals-container}
+To introduce you to **the economic way of thinking** and **how to apply it to real-world problems**:
+
+<br>
+
+Specifically, there are two key components to achieve this goal:
+
+1. obtain the fundamental knowledge of microeconomic theories and concepts.
+2. learn the skills to apply these concepts to real-world problems.
+::::
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+:::{.stopthink}
+::::{.stopthink-header}
+
+::::
+::::{.stopthink-container}
+What is the economic way of thinking?
+::::
+:::
+:::
+
+
+:::{.notes}
++ In this course, we will learn about the basic principles of economics. Let me clarify the course objectives, which is very important. 
++ As written on the syllabus, the objective of this course is to introduce you to the economic way of thinking and how to apply it to real-world problems.
+:::
+
+
+
+:::{.notes}
++ In this course, we will learn about the basic principles of economics.
++ What is economics? Why is it important?
++ Regardless of your major, economics is a useful tool for understanding the world around you.
++ Let me talk about the field of economics, and the importance of economics.
+:::
 
  
+## What is the economics way of thinking? {.center}
 
-## Test slide 2  {.center}
+<br>
+
+### Example 1: Trade-offs in Everyday Life 
+
+:::{.columns}
+:::{.column width=50%} 
+It's Friday night, and you order a pizza. You are really hungry so you ate most of it (it was so delicious), there are only two slices left. 
+
+Should you eat them now or save them for tomorrow?
+
+<br>
+
+:::{.fragment .fade-up}
+:::{.stopthink}
+::::{.stopthink-header}
+Question
+::::
+::::{.stopthink-container}
+What is the trade-off here?
+::::
+:::
+:::
+
+:::
+
+:::{.column width=50%}
+![](https://img.freepik.com/free-photo/view-cartoon-waiter-with-delicious-3d-pizza_23-2151017662.jpg?size=626&ext=jpg){width=60%}
+:::
+:::
+
+
+## What is the economics way of thinking? {.center}
+
+<br>
+
+### Example 2: Groundwater Pollution
+
+:::{.columns}
+:::{.column width=50%}
+In the Midwest region, there is a serious problem of groundwater pollution due to the excessive use of fertilizers. Because of this, the water quality in the surrounding residential has been deteriorating, causing health problems for the residents. 
+
+<br>
+
+[How should we address this problem?]{style="color:blue;"}
+:::
+:::{.column width=50%}
+
+![Figure: Areas at high risk of nitrogen contamination of groundwater(Reference: [USGS](https://www.usgs.gov/media/images/areas-high-risk-nitrogen-contamination-groundwater))](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/wss-nitrogen-map-us-risk-areas.jpg)
+:::
+
+
+:::{.notes}
++ Trade-offs are everywhere in our daily lives, and it's the most fundamental concept in economics. Basically, we want to solve the trade-offs to achieve a better outcome.
++ Meanwhile, sometime, trade-off can be used to solve the problem. 
+
++ The problem of the groundwater pollution is a typical example of the trade-off. Assuming that the farmers are pursuing their own profits, they will use whatever amount of fertilizers they need to maximize their profits. However, this will lead to the groundwater pollution.
++ What is the solution for this problem?
++ We can use the melanism of trade-off to solve this problem. For example, we can impose a tax on the use of fertilizers. This will increase the cost of using fertilizers, and the farmers will reduce the use of fertilizers. This will reduce the groundwater pollution.
++ Or, we can subsidize the farmers to reduce the use of fertilizers. This will also reduce the groundwater pollution.
++ Which is economically efficient?
+:::
 
 
 
-## Test slide 3 {.center}
 
 
 
