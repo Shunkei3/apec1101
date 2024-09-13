@@ -24,8 +24,6 @@ format:
     preview-links: false
 ---
 
-
-
 ## {{< fa list >}} Outline {.center}
 
 + About Myself
@@ -81,13 +79,14 @@ stopthink
 + First time teaching Microeconomics to undergraudate students!
 :::
 
-::: {.column width=60%}
+::: {.column width=55%}
 ![](image/pictures.png){width=70%}
 :::
 :::
 
 
 ## Contact Infomation {.center}
+
 + {{< fa envelope >}} **Email**: kakim002@umn.edu
   + Feel free to shoot me an email if you have any questions or concerns. I'll get back to you as soon as possible.
 + {{< fa building-columns >}} **Office**: 316a Ruttan Hall
@@ -237,6 +236,15 @@ In the Midwest region, there is a serious problem of groundwater pollution due t
 :::{.column width=50%}
 
 ![Figure: Areas at high risk of nitrogen contamination of groundwater(Reference: [USGS](https://www.usgs.gov/media/images/areas-high-risk-nitrogen-contamination-groundwater))](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/wss-nitrogen-map-us-risk-areas.jpg)
+
+```{r}
+#| label: fig-groundwater
+#| echo: false
+#| eval: false
+#| fig-subcap: "Areas at high risk of nitrogen contamination of groundwater(Reference: USGS)"
+#| fig-width: 10
+knitr::include_graphics(here("Lab_slides/lab1/image/wss-nitrogen-map-us-risk-areas.jpg"))
+```
 :::
 
 
