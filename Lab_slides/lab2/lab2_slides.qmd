@@ -1,0 +1,315 @@
+---
+title: "Lab 2: Thinking Like an Economist"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+---
+
+## Feedback Sheets {.center}
+
++ If you have any questions or suggestion, please feel free to write them down on the feedback sheet. [You don't need to write your name]{style="color:blue"}, and this is not an attendance check.
++ If you have nothing to write, you can leave it blank.
++ Please place at the front desk. 
+
+
+## {.center}
+
+This week, we learned many basic economic concepts. 
+
+<br>
+
+:::{.stopthink}
+::::{.stopthink-header}
+"Knowing is Different from Understanding"
+::::
+::::{.stopthink-container}
++ Knowing the concepts as written is important (to some extent)
++ [What is more important is to know understanding the concept together with its background, such as why it matters, to what kind of problem the concept is useful, and how it connects to other concepts.]{style="color:blue"}
+::::
+:::
+
+:::{.notes}
++ This week, we learned many basic economic concepts, and we will learn more in the future classes. One thing that I want you to keep in mind is that "Knowing is different from understanding.". 
++ Well, it sounds obvious. But, I believe that this is a critical insight for leaning something new. 
++ I experienced a lot of times that I thought I understood something, but I actually didn't. How did I know that? 
++ After taking a lecture or reading a book, I tend to feel I understand the material. However, once I face complicated questions in assignment, I often find myself unable to figure out where to start thinking and how to apply the knowledge to approach the problems. This is a typical situation where I know the concepts but do not understand them.
++ If you cannot use the concepts to solve the problems, it's useless. For example, even if you have a car and you know the definition of a car (a four-wheeled vehicle that is powered by an engine and is able to carry a small number of people), if you don't know how to drive, it's just a piece of metal.
++ Just having this mindset, your performance in any class will be improved.
+:::
+
+## {{< fa list >}} Overview {.center}
+
+### Key concepts:
+
+1. Opportunity cost
+2. Cost-benefit analysis
+3. Economic forces and Market forces
+   + Invisible hand by Adam Smith
+4. Normative and Positive Economics
+
+:::{.notes}
++ Today, I will go over some important concepts that we learned in the class, which are ...
++ Among them, the most important concept is the opportunity cost and cost-benefit analysis. 
+:::
+
+## 1. Opportunity Cost {.center}
+
+### Background:
+
+**Scarcity Principle:**
+
++ Resources (money, time, attention, energy, oil, water etc.) are limited, but human wants are unlimited.\
+&rarr; So, we have to make choices over another option.
+
+Example:
+
+
+
+
+
+
+
+**Opportunity Cost:**
++ The value of the next best alternative that must be sacrificed as a result of making a decision.
+
+
+
+
+:::{.notes}
++ Let's start with the concept of opportunity cost. 
++ Before that let me introduce the scarcity principle, which is a fundamental idea in economics. 
++ In economics, all the inputs you need to use to do something are called resources. For example, time, money. Of course, natural resources such as oil, water are also resources because they are used to produce goods and services.
++ These resources are limited. Everyone has 24 hours in a day, and 365 days in a year. You cannot have more than that. The money you have is also limited. 
+
++ Because of the scares resources, trade-off comes in when we make a decision. That is, whenever we choose to do something, we must give up something else. 
+
+
+
+
++ You decided to continue your education at the University of Minnesota. What would you do with all that time and college tuition money if you decided not to do so? 
+
++ With the money you spent on tuition, you could have bought a car, gone on a vacation, or invested it in the stock market.
++ With the time you spent studying, you could have worked, volunteered, or traveled.
++ That is the opportunity cost of your decision. 
+:::
+
+
+
+
+**Example:**
+
+
+
++ What else?
+
+:::{.notes}
++ At the heart of economics is the idea that resources are scarce, and choosing one option often means forgoing another. This is where opportunity cost comes in—it’s the value of the next best alternative that you give up when making a choice.
+
++ Any decision that involves a trade-off between two or more options has an opportunity cost.
+
++ You would have probably gone straight into the workforce, and you would have earned money instead of spending it on tuition. 
+:::
+
+
+## (2) Cost-benefit Analysis {.center}
+
+Once you understand the concept of opportunity cost, you can use it to make decisions based on a criterion: **cost-benefit criterion**.
+
+**Examples:**
+
++ You decided to continue your education at the University of Minnesota. That means you think the benefits of going to the University of Minnesota are greater than the opportunity cost of going to the University of Minnesota.
+
+
+## In terms of producers
+
+**Problem:** How much to produce?
+
+**Approach:** According to the cost-benefit approach, the producer compares the 
+
+
+
+## Overview: Economic forces and Market forces {.center}
+
+::: {.columns}
+:::{.column width=50%}  
+
+::: {.callout-note}
+## What are they?
+[Economic forces]{style="color:blue;"}: anything that affects whole economies (e.g., unemployment rate, inflation rate, change in consumer's preferences, etc.)
+
+[Market forces]{style="color:blue;"}: factors within a market that affect the prices, supply, and demand for goods and services.
+:::
+
+**How they different?**
+
++ Market forces are part of economic forces. There are lots of other factors that can affect the economy.
+:::
+
+::: {.column width=50%}
+![](image/econ_forces.png){width=70%}
+:::
+:::
+
+## Market forces {.center}
+
+[Market forces]{style="color:blue;"}: factors within a market that affect the prices, supply, and demand for goods and services.
+
+**Example:**
+
+## *Invisible Hand*
+
+
+:::{.columns}
+:::{.column width=50%}
++ In economics, we assume that individuals are rational and pursue one goal: [self-interest]{style="color:blue;"}.
++ Adam Smith's ["invisible hand"]{style="color:red;"} theory explains:
+  +  how individuals pursuing their own self-interest unintentionally contribute to the overall good of society through market mechanisms.
+:::
+:::{.column width=50%}
+![Figure: The Wealth of Nations, Adam Smith, 1776))](https://m.media-amazon.com/images/I/71L53XUgxdL._AC_UF1000,1000_QL80_.jpg)
+:::
+:::
+
+:::{.notes}
++ Adam Smith is a 18th-century Scottish philosopher and economist. The Wealth of Nations, published in 1776, is considered the first modern work of economics.
++ In the book, he introduced the concept of the "invisible hand".
++ What is the "Invisible hand"?
++ In economics, we assume that ....
+  + For example, individual consumer seeks to maximize their utility, and firms seek to maximize their profits. That it. 
+  + They behave rationally and pursue their self-interest.
+
++ 
++  to explain how individuals pursuing their own self-interest unintentionally contribute to the overall good of society through market mechanisms.
+
++ In other words, the market forces can achieve the efficient allocation of resources without any central authority by theory.  
+
++ For instance, a business seeking to maximize profits may innovate or improve its product, benefiting consumers with better options and contributing to economic growth. This self-regulating nature of the market relies on decentralized decision-making, where the collective outcome, driven by individual choices, often leads to an efficient allocation of resources, even if no one is directly coordinating these efforts.
+:::
+
+
+## Realities are more complicated
+
+:::{.columns}
+:::{.column width=50%}
+
+<br>
+
+### Example: Nippon Steel's Attempt to Acquire U.S. Steel
+
+**Background:**
+
+In 2024, Nippon Steel planned $14.9 billion acquisition of U.S. Steel (valued at $14.1 billion) to counter the growing competition with Chinese steelmakers. 
+
+<br>
+
+**Result:**
+
++ The U.S. government, under President Biden, intervened to block the deal due to concerns about national security and protecting domestic industries.
+
+**Economic Consequences?**
+
+<br>
+
+[Non-market factors such as national interest and security can limit or reshape market activities.]{style="color:blue;"}
+
+:::
+:::{.column width=50%}
+![Wall Street Journal, Sept 5](image/japan.png)
+:::
+:::
+
+:::{.notes}
++ Although there are some resistance to the merger from the union, the biggest obstacle for the merger was the U.S. Department of Justice.
++ 
+:::
+
+## Rent Control, Unintentional Consequences {.center}
+
+:::{.columns}
+:::{.column width=50%}
+::: {.callout-note}
+## Rent Control Laws
+a price ceiling on rent set by the government to protect tenants from high rents.
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+### Consequences:
+
+&rarr; the rent is set below what the housing market would naturally determine.
+
+&rarr; the landlords have less incentive to maintain the property, or they may convert the property to other uses (like condos) that are not subject to rent control.
+
+&rarr; housing shortages and poor-quality apartment units. 
+:::
+
+:::
+
+:::{.column width=50%}
+![Figure: Rent Control Laws by State (Source: National Apartment Association)](https://www.naahq.org/sites/default/files/inline-images/FINAL%20rent%20control%20static%20map%20with%20NAA%20logo%20%284%29.png)
+:::
+:::
+
+## Normative and Positive Economics: "What is" vs "What should be" {.center}
+
+
+
+
+:::{.ideas}
+::::{.ideas-header}
+[Friedman (1966): Essays in Positive Economics](https://books.google.com/books?hl=en&lr=&id=NqNGaJBahWoC&oi=fnd&pg=PA180&dq=the+methodology+of+positive+economics&ots=gMIryBXp3X&sig=8TGCuWJp8aNkq1sJk-76pFOU2bQ)
+::::
+::::{.ideas-container}
+[Positive economics]{style="color:blue"} deals with describing and predicting economic phenomena without incorporating subjective values, focusing on "what is."
+
++ e.g.) If the price of a good increases (keeping everything else being constant), the quantity demanded will decrease.
+
+[Normative economics]{style="color:blue"} involves value judgments and policy recommendations, focusing on "what ought to be."
+
++ e.g.) If the price of a good increases, the government should intervene to prevent the price increase.
+::::
+:::
+
+**Kye points:**
+
++ To make a normative judgement, you need to know the positive economics first. 
+
+
+<!-- + Positive ecnomics is independent of any particular ethical position or normative judgement.
++ Normative economic and the art of economics cannot be independent of positive economics. It necesarily depends on positive economics. -->
+
+:::{.notes}
++ Normative economics and positive economics are two distinct aspects or perspectives in the field of economics. They serve different purposes and focus on different questions.
+
++ These concepts were proposed by John Neville Keynes, a British economist, in 19 century.  
++ By the way, John Neville Keynes is the farther of John Maynard Keynes who developed the foundation for much of modern macroeconomic theory know as Keynesian economics. He is well known for "father of macroeconomics".
+
++ Positive economics:
+  + Positive 
+
++ Normative economics:
+  + involves value judgments and opinions about what ought to or should happen in an economy. It reflects personal beliefs, ethics, or societal preferences rather than objective analysis.
+
++ 
+:::
+
