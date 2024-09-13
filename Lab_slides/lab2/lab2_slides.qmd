@@ -26,7 +26,7 @@ format:
 
 ## Feedback Sheets {.center}
 
-+ If you have any questions or suggestion, please feel free to write them down on the feedback sheet. [You don't need to write your name]{style="color:blue"}, and this is not an attendance check.
++ If you have any questions or suggestions, please feel free to write them down on a feedback sheet. [You don't need to write your name]{style="color:blue"}, and this is not an attendance check.
 + If you have nothing to write, you can leave it blank.
 + Please place at the front desk. 
 
@@ -43,7 +43,7 @@ This week, we learned many basic economic concepts.
 ::::
 ::::{.stopthink-container}
 + Knowing the concepts as written is important (to some extent)
-+ [What is more important is to know understanding the concept together with its background, such as why it matters, to what kind of problem the concept is useful, and how it connects to other concepts.]{style="color:blue"}
++ [It is most important to understand the concept together with its background, such as why it matters, for what kind of problem the concept is useful, and how it connects to other concepts.]{style="color:blue"}
 ::::
 :::
 
@@ -60,10 +60,10 @@ This week, we learned many basic economic concepts.
 
 ### Key concepts:
 
-1. Opportunity cost
-2. Cost-benefit analysis
-3. Economic forces and Market forces
-   + Invisible hand by Adam Smith
+1. Opportunity Cost
+2. Cost-benefit Analysis
+3. Economic Forces and Market Forces
+   + Invisible Hand by Adam Smith
 4. Normative and Positive Economics
 
 :::{.notes}
@@ -80,19 +80,11 @@ This week, we learned many basic economic concepts.
 + Resources (money, time, attention, energy, oil, water etc.) are limited, but human wants are unlimited.\
 &rarr; So, we have to make choices over another option.
 
-Example:
+**Example**
 
+Suppose you own a successful pizza store, and are considering opening a second location. 
 
-
-
-
-
-
-**Opportunity Cost:**
-+ The value of the next best alternative that must be sacrificed as a result of making a decision.
-
-
-
++ What is the scarce resource in this case?
 
 :::{.notes}
 + Let's start with the concept of opportunity cost. 
@@ -100,29 +92,44 @@ Example:
 + In economics, all the inputs you need to use to do something are called resources. For example, time, money. Of course, natural resources such as oil, water are also resources because they are used to produce goods and services.
 + These resources are limited. Everyone has 24 hours in a day, and 365 days in a year. You cannot have more than that. The money you have is also limited. 
 
+
++ time 
++ energy 
++ cost (rent, labor, equipments adn materials) 
+:::
+
+## 1. Opportunity Cost {.center}
+
+The scarcity principle necessarily results in trade-offs. 
+
+&rarr; If you choose to open a second location, you must give up the opportunity to use those resources for something else.
+
+:::{.ideas}
+::::{.ideas-header}
+Opportunity Cost
+::::
+::::{.ideas-container}
+The value of the next best alternative that must be sacrificed.
+::::
+:::
+
+
+<br>
+
+**Example:**
+
++ We decided to continue our education at the University of Minnesota. What are the opportunity costs of this decision?
+
+:::{.notes}
+
 + Because of the scares resources, trade-off comes in when we make a decision. That is, whenever we choose to do something, we must give up something else. 
-
-
-
-
+  + The fact that you have to give up something is same as saying that you have to pay the cost of the decision.
 + You decided to continue your education at the University of Minnesota. What would you do with all that time and college tuition money if you decided not to do so? 
 
 + With the money you spent on tuition, you could have bought a car, gone on a vacation, or invested it in the stock market.
 + With the time you spent studying, you could have worked, volunteered, or traveled.
 + That is the opportunity cost of your decision. 
-:::
 
-
-
-
-**Example:**
-
-
-
-+ What else?
-
-:::{.notes}
-+ At the heart of economics is the idea that resources are scarce, and choosing one option often means forgoing another. This is where opportunity cost comes in—it’s the value of the next best alternative that you give up when making a choice.
 
 + Any decision that involves a trade-off between two or more options has an opportunity cost.
 
@@ -130,24 +137,41 @@ Example:
 :::
 
 
-## (2) Cost-benefit Analysis {.center}
+## 2. Cost-Benefit Approach {.center}
 
-Once you understand the concept of opportunity cost, you can use it to make decisions based on a criterion: **cost-benefit criterion**.
+Once you understand the concept of opportunity cost, you can use it to make decisions using the  cost-benefit analysis or approach. 
+
+
+:::{.ideas}
+::::{.ideas-header}
+Cost-benefit Approach
+::::
+::::{.ideas-container}
+Decision-making rule is fairly simple: 
++ If the benefits exceed the costs, then the decision is worth making.
++ If the benefits do not exceed the costs, then it is not worth making.
+::::
+:::
+
+<br>
 
 **Examples:**
 
-+ You decided to continue your education at the University of Minnesota. That means you think the benefits of going to the University of Minnesota are greater than the opportunity cost of going to the University of Minnesota.
+What are the costs and benefits of going to college?
+
+:::{.columns}
+:::{.column width=50%}
+**Benefits:**
+
+:::
+:::{.column width=50%}
+**Costs:**
+
+:::
+:::
 
 
-## In terms of producers
-
-**Problem:** How much to produce?
-
-**Approach:** According to the cost-benefit approach, the producer compares the 
-
-
-
-## Overview: Economic forces and Market forces {.center}
+## 3. Economic Forces and Market Forces {.center}
 
 ::: {.columns}
 :::{.column width=50%}  
@@ -159,7 +183,7 @@ Once you understand the concept of opportunity cost, you can use it to make deci
 [Market forces]{style="color:blue;"}: factors within a market that affect the prices, supply, and demand for goods and services.
 :::
 
-**How they different?**
+**How are they different?**
 
 + Market forces are part of economic forces. There are lots of other factors that can affect the economy.
 :::
@@ -169,11 +193,26 @@ Once you understand the concept of opportunity cost, you can use it to make deci
 :::
 :::
 
-## Market forces {.center}
+## Market Forces {.center}
 
-[Market forces]{style="color:blue;"}: factors within a market that affect the prices, supply, and demand for goods and services.
 
-**Example:**
+:::{.ideas}
+::::{.ideas-header}
+Market Forces
+::::
+::::{.ideas-container}
+Factors within a market that affect the prices, supply, and demand for goods and services.
+::::
+:::
+
+<br>
+
+### Example:
+
++ Consumer preferences
++ Market structure (perfectly competitive market, monopoly, oligopoly)
++ Technological innovation
+
 
 ## *Invisible Hand*
 
@@ -182,7 +221,7 @@ Once you understand the concept of opportunity cost, you can use it to make deci
 :::{.column width=50%}
 + In economics, we assume that individuals are rational and pursue one goal: [self-interest]{style="color:blue;"}.
 + Adam Smith's ["invisible hand"]{style="color:red;"} theory explains:
-  +  how individuals pursuing their own self-interest unintentionally contribute to the overall good of society through market mechanisms.
+  +  How individuals pursuing their own self-interest unintentionally contribute to the overall good of society through market mechanisms.
 :::
 :::{.column width=50%}
 ![Figure: The Wealth of Nations, Adam Smith, 1776))](https://m.media-amazon.com/images/I/71L53XUgxdL._AC_UF1000,1000_QL80_.jpg)
@@ -206,7 +245,7 @@ Once you understand the concept of opportunity cost, you can use it to make deci
 :::
 
 
-## Realities are more complicated
+## Realities are More Complicated
 
 :::{.columns}
 :::{.column width=50%}
@@ -248,7 +287,7 @@ In 2024, Nippon Steel planned $14.9 billion acquisition of U.S. Steel (valued at
 :::{.column width=50%}
 ::: {.callout-note}
 ## Rent Control Laws
-a price ceiling on rent set by the government to protect tenants from high rents.
+A price ceiling on rent set by the government to protect tenants from high rents.
 :::
 
 <br>
@@ -256,11 +295,13 @@ a price ceiling on rent set by the government to protect tenants from high rents
 :::{.fragment .fade-up}
 ### Consequences:
 
-&rarr; the rent is set below what the housing market would naturally determine.
+&rarr; The rent is set below what the housing market would naturally determine.
 
-&rarr; the landlords have less incentive to maintain the property, or they may convert the property to other uses (like condos) that are not subject to rent control.
+&rarr; Even though the demand is high, the landlords cannot raise the rent, resulting in large opportunity cost.
 
-&rarr; housing shortages and poor-quality apartment units. 
+&rarr; The landlords have less incentive to maintain the property, or they may convert the property to other uses (like condos) that are not subject to rent control.
+
+&rarr; This can create housing shortages and poor-quality apartment units. 
 :::
 
 :::
@@ -270,7 +311,7 @@ a price ceiling on rent set by the government to protect tenants from high rents
 :::
 :::
 
-## Normative and Positive Economics: "What is" vs "What should be" {.center}
+## 4. Normative and Positive Economics: "What is" vs "What should be" {.center}
 
 
 
@@ -282,18 +323,25 @@ a price ceiling on rent set by the government to protect tenants from high rents
 ::::{.ideas-container}
 [Positive economics]{style="color:blue"} deals with describing and predicting economic phenomena without incorporating subjective values, focusing on "what is."
 
-+ e.g.) If the price of a good increases (keeping everything else being constant), the quantity demanded will decrease.
++ e.g.) If the price of a good increases (keeping everything else constant), the quantity demanded will decrease.
 
-[Normative economics]{style="color:blue"} involves value judgments and policy recommendations, focusing on "what ought to be."
+[Normative economics]{style="color:blue"} involves value judgments and policy recommendations, focusing on "what should be."
 
 + e.g.) If the price of a good increases, the government should intervene to prevent the price increase.
 ::::
 :::
 
-**Kye points:**
+<br>
 
-+ To make a normative judgement, you need to know the positive economics first. 
+:::{.fragment .fade-left}
+::: {.callout-important}
+## Key points:
 
+Normative judgement needs to be based on the predictions of positive economics
+
++ e.g.), You cannot say "the government should intervene" without knowing predicted potential consequences of the intervention). 
+:::
+:::
 
 <!-- + Positive ecnomics is independent of any particular ethical position or normative judgement.
 + Normative economic and the art of economics cannot be independent of positive economics. It necesarily depends on positive economics. -->
@@ -305,11 +353,48 @@ a price ceiling on rent set by the government to protect tenants from high rents
 + By the way, John Neville Keynes is the farther of John Maynard Keynes who developed the foundation for much of modern macroeconomic theory know as Keynesian economics. He is well known for "father of macroeconomics".
 
 + Positive economics:
-  + Positive 
+  + Positive economics ....
+  + So, basically, the task of the positive economics is to provide general principles that can be used to predict the consequences of any change in economics. 
+  + For example, a statement such that if the price goes up, the quantity demanded goes down. This is the law of demand, and it is a positive economics. This can be tested by data.
+  + In this sense, the positive economics is objective and scientific because it reflects the facts.
 
++ Meanwhile, normative economics is subjective. 
+  + It involves .....
 + Normative economics:
   + involves value judgments and opinions about what ought to or should happen in an economy. It reflects personal beliefs, ethics, or societal preferences rather than objective analysis.
 
-+ 
++ value judgement: an assessment of something as good or bad in terms of one's standards or priorities.
 :::
 
+
+<!-- ## 4. Normative and Positive Economics: "What is" vs "What should be" {.center}
+
+:::{.columns}
+:::{.column width=50%}
+### Example: Groundwater Management
+
+1. **Positive Economics: What is Happening?**
+
++ Groundwater depletion occurs when extraction rates exceed recharge rates.
++ Current groundwater usage rates affect future water availability.
++ Groundwater quotas reduce groundwater consumption.
+
+1. **Normative Economics: What Should Be Done?**
+
++ The government should impose strict regulations on groundwater usage to prevent depletion for future generations.
+
+1. **Art of Economics: Bridging Positive and Normative**
+
++ If positive analysis shows that higher water prices reduce groundwater consumption, the art of economics would involve recommending or designing an appropriate pricing policy that balances conservation with fairness for different water users.
+:::
+:::{.column width=50%}
+![National Climate Assessment: Great Plains’ Ogallala Aquifer drying out](https://www.climate.gov/sites/default/files/ogallala_changes_620.jpg)
+:::
+
+:::{.notes}
++ Positive economics focuses on objective, fact-based analysis without making value judgments. It aims to describe and predict outcomes based on observable data and economic principles.
+
++ Normative economics involves value judgments and recommendations about what *ought* to be done, based on opinions about fairness, sustainability, or social welfare. It introduces subjective views on what is desirable or just.
+
++ The **art of economics** might involve using data (from positive economics) to design policies (from normative economics) aimed at preventing groundwater depletion. 
+::: -->
