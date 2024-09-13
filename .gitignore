@@ -27,3 +27,5 @@ TestResults.xml
 .Rhistory
 *.Rproj
 .Rproj.user/
+
+*.pdf
