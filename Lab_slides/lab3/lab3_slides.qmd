@@ -1,0 +1,412 @@
+---
+title: "Lab 3: Comparative Advantage and Trade"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+---
+
+## Feedback Sheets {.center}
+
++ If you have any questions or suggestions, please feel free to write them down on a feedback sheet. [You don't need to write your name]{style="color:blue"}, and this is not an attendance check.
++ If you have nothing to write, you can leave it blank.
++ Please place at the front desk when you leave the classroom.
+
+:::{.notes}
++ We have Quizzes in next lab session.
+:::
+
+## {.center}
+
+**Big question: Why do people/nations specialize in producing specific goods/services?**
+
+<br>
+
+### {{< fa bullseye >}} Learning Objectives (Key Points in this Week's Class) {.center}
+
++ To be able to explain:
+  + what a Production Possibilities Frontier (PPF) is.
+  + what the shape and slope or curvature of a PPF implies.
+  + what "having a comparative advantage" at producing a particular good/services means. 
+  + what the advantage of specialization and trade is.
++ To be able to identify who has a comparative advantage in producing a particular good/service. 
+
+
+:::{.notes}
++ I summarized the key points in this week's class. 
++ The main topic of this week was the 
+
+
+
++ The main topics are the Production Possibilities Frontier (PPF) and Comparative Advantage.
++ Specifically, we learned (1) what a PPF is and what it indicates. (2) what shape and the slope or curvature of a PPF imply. We saw linear shaped PPF and bow-shaped PPF. So, the question is what the difference between them is. (3) we also covered the concept of "comparative advantage." (4) The theory of comparative advantage teaches us that individuals or nations should specialize in the production of the goods **in which they have the lowest opportunity cost**. After producing the goods, they can trade with others to get the goods they do not produce. This way, each party can benefit from consuming more goods than they could produce.
+:::
+
+
+## {.center}
+### {{< fa list >}} Today's Outline {.center}
+
++ Review:
+  + Production Possibilities Frontier (PPF)
+    + Exercise Problem 1: constant marginal opportunity costs
+    + Exercise Problem 2: increasing marginal opportunity costs
+  + Comparative Advantage
+    + Exercise Problem 3
+
+<br>
+
++ Appendix:
+  + Exercise Problem 3 (Optional): Shifts in the Economy's PPF
+  + Exercise Problem 4 (Optional): Comparative Advantage
+  + Math review: Slope of a line
+
+<br>
+
+Note: The appendix is optional. You can use it for further study if you want to practice more.
+
+
+:::{.notes}
++ These topics are not difficult. You just need to practice. So, I prepared lots of exercise problems to help you understand the concepts. 
+:::
+
+
+## Production Possibilities Frontier/Curve (PPF/PPC) {.center}
+
+:::{.ideas}
+::::{.ideas-header}
+What is PPF?
+::::
+::::{.ideas-container}
+PPF(PPC) is a graphical illustration showing all possible combinations of two goods/services that an economy can produce given the available resources and technology.
+::::
+:::
+
+<br>
+
+PPF also shows important information:
+
++ The opportunity cost of producing one good versus the other good.
++ The tradeoff between devoting resources to producing one good versus another.
+
+
+## Exercie Problem 1: (*Principles of Microeconomics, Ch2, Problem 4*, modified) {.center}
+
+Consider a society consists only of Helen, who allocates her time between sewing dresses and baking bread. [Each hour she devotes to sewing dresses yields 4 dresses]{style="color:blue;"} and [each hour she devotes to baking bread yields 8 loaves of bread]{style="color:blue;"}. 
+
+(1) If Helen works a total of [8 hours per day]{style="color:blue;"}, graph her PPF showing all possible combinations of dresses and loaves of bread she can produce in a day. \
+(Let's take the dresses on the horizontal axis and the bread on the vertical axis.)
+
+(2) What is the marginal opportunity cost of producing a dress?\
+(Hint: To produce one more dress, how many loaves of bread does Helen need to give up?)
+
+## {.center}
+
+:::{.stopthink}
+::::{.stopthink-header}
+Let's think one step further. 
+::::
+::::{.stopthink-container}
+In the problem, the opportunity cost of producing a dress is constant regardless of how many dresses Helen produces. We call this "constant marginal opportunity costs." 
+
++ What does it imply with respect to the technology and resources to produce dresses and bread? Do you think that this is a reasonable assumption in this case?
++ Can you think of any two goods that have constant marginal opportunity costs?
+::::
+:::
+
+
+<!-- :::{.fragment .fade-up}
+### Key point
++ The shape (curvature) of the curve tells us information about the tradeoff between devoting resources to producing one good versus another.
++ The slope of the PPF tells us the opportunity cost of producing an additional unit of the good measured along the horizontal axis.
+::: -->
+
+
+:::{.notes}
++ Again, math is not the main focus in economics. You need to think about the implication of the results.
++ resources (time and sewing machine and ) are equally suited for producing both goods.
+  + "blue pen" versus a "red pen" from the same manufacturer, where switching production between the two colors requires minimal adjustment and results in a consistent tradeoff between the two goods. 
+  + bread and cookies.
+:::
+
+## Memo:
+
+
+
+
+## Exercise problem 2:
+
+Let's think about a slightly more complicated but realistic example. Consider the following PPF:
+
+![](./image/ex2.png)
+
+### Questions
+
+(1) What is the opportunity cost of producing steel as we move from point B to point C?\
+(2) What is the opportunity cost of producing steel as we move from point D to point E?\
+(3) You can see the opportunity cost of producing steel increases as 
+ the production of steel increases (A-> B -> ... -> E -> F). Why?
+
+:::{.notes}
++ That is, As the production of Steel increases relative to Textiles, the opportunity cost of steel increases. Why?
+:::
+
+## 
+
+:::{.ideas}
+::::{.ideas-header}
+Increasing Marginal Opportunity Costs
+::::
+::::{.ideas-container}
+***What is it?***
+
++ It means the additional opportunity cost of producing one more unit of a good increases as more of that good is produced.
+
+***Why does it arise??***
+
++ Not all resources are equally suited for producing all goods. One resource is more suited for producing one good than the other. As the production of one good increases, the resource that is more suited for producing the other good is used more intensively, which increases the opportunity cost of producing the other good.
+::::
+:::
+
+:::{.fragment .fade-up}
+**For example**
+
++ Suppose you have a farm, and you grow both wheat and corn. However, not all the land is equally suited for growing both wheat and corn. Some portion of the land might be more suited for growing corn, while the other portion might be more suited for growing wheat. As you grow more corn relative to wheat, you need to use the land that is less suited for growing corn, which increases the opportunity cost of producing corn.
+:::
+
+
+:::{.notes}
++ Basically, when the resources are not perfectly substitutable, in other words, two goods require different characteristics of resources to produce, the increasing marginal opportunity costs arise.
++ Another reason would be because of the diminishing marginal returns.
+:::
+
+## {.center}
+
+
+::: {.callout-note}
+Although the constant marginal opportunity cost is less likely, we commonly use it when calculating the comparative advantage just because it makes the calculation easier!
+:::
+
+
+
+## Comparative Advantage {.center}
+
+Suppose we have two countries, Brazil and Germany. Each producing two goods, Steel and Textile. 
+
+| Country | Steel (tons/day) | Textile (yds/day) |
+|---------|--------------|----------------|
+| Brazil  | 2            | 10              |
+| Germany | 4            | 40              |
+
+Germany has higher productivity in both goods. Does it mean that Germany should produce both goods?
+
+<br>
+
+:::{.fragment .fade-up}
+[No. We need to account for the cost of producing each good. (e.g., to produce one ton of steel, how many yards of Textile Germany needs to give up as a cost?)]{style="color:blue;"}
+:::
+
+
+## Comparative Advantage {.center}
+
+Principle: We should determine who to produce a good/service based on who can produce a unit of that good/service with the lowest opportunity cost.
+
+:::{.ideas}
+::::{.ideas-header}
+***What is it?***
+::::
+::::{.ideas-container}
+A nation/person has a comparative advantage over another nation/person if they can produce a good/service at a lower opportunity cost.
+
+For example, to find out who has a comparative advantage in producing Steel, we need to ask who can produce a unit of Steel with the lowest opportunity cost. (This equivalent to divide the number of units the country lose by the number of units the country gains.)
+::::
+:::
+
+:::{.notes}
++ How many Textile are given up to when producing one ton of Steel?
++ With this in your mind, let's calculate the opportunity cost of producing Steel and the opportunity cost of producing Textile for each country.
+:::
+
+
+## Exercise Problem 3: Comparative Advantage {.center}
+
+| Country | Steel (tons/day) | Textile (yds/day) |
+|---------|--------------|----------------|
+| Brazil  | 2            | 10              |
+| Germany | 4            | 40              |
+
+Who has a comparative advantage in producing Steel? Who has a comparative advantage in producing Textile?
+ 
+:::{.notes}
++ The opportunity cost of producing a unit of Steel
+  + How many yards of Textile the US gives up whey they produce one ton of Steel.
++ The opportunity cost of producing one yard of Textile
+  + How many tons of Steel the US gives up when they produce one yard of Textile.
+:::
+
+## Memo:
+
+# Appendix
+
+## Exercise Problem 3 (Optional): Shifts in the Economy's PPF
+
+Another important aspect of the PPF is that it can shift outward or inward depending on changes in the economy's resources or technology.
+
+<!-- start panel:exercise 1   --> 
+:::{.panel-tabset}
+### {{< fa person-chalkboard >}} Instruction
+
+Consider an economy that produces smartphones and wheat under increasing marginal opportunity costs. A technological advancement in smartphone manufacturing leads to a substantial decrease in production costs relative to wheat. Illustrate this change using a production possibility curve. Explain the potential benefits for the economy resulting from this innovation.
+ 
+### {{< fa lightbulb >}} Solution
+
+:::{.columns}
+:::{.column width=60%}
++ The figure shows the shift in the PPF. Technological advancements in smartphone manufacturing reduce the resources required to produce smartphones, meaning that more smartphones can be produced with the same amount of resources, or fewer resources are needed to produce the same number of smartphones. This causes the PPC to pivot outward, specifically on the smartphone axis (**biased technological change**).
++ Now, we can produce the same amount of smartphones with fewer resources than before. Then, the resources that are freed up can be used to produce more wheat. This means that the opportunity cost of producing smartphones decreases, which benefits from comparative advantage in that good. Also, as production costs decrease, the price of smartphones is likely to fall, which benefits consumers.
+:::
+:::{.column width=40%}
+![](./image/ex_optional.png){width=100%}
+:::
+:::
+<!-- end panel:exercise 1  --> 
+:::
+
+:::{.notes}
++ When there is a technological advancement in the production of smartphones, **it shifts the Production Possibility Frontier (PPF) outward, specifically for smartphones**. This change reflects the economy’s increased ability to produce more smartphones with the same amount of resources, while the production of wheat remains unchanged.
+
++ Benefit? 
+  + Now, we can produce the same amount of smartphones with less resources than before. Then the resources that are freed up can be used to produce more wheat. This means, that the opportunity cost of producing smartphones decreases, which benefiting from comparative advantage in that good.
+  + With reduced costs, the economy might specialize more in smartphone production, benefiting from comparative advantage in that good.
+  + For example, as production costs decrease, the price of smartphones is likely to fall, benefiting consumers and increasing their purchasing power.
+:::
+
+
+## Exercise Problem 4 (Optional): Comparative Advantage
+
+<!-- start panel:app-comparative advantage   --> 
+:::{.panel-tabset} 
+### {{< fa person-chalkboard >}} Instruction
+
+The two figures below show the PPFs of two countries, Brazil and U.S.
+
+![PPF for the U.S. and Brazil (source: Principles of Microeconomics 2e ([click here](https://openstax.org/books/principles-economics-3e/pages/2-2-the-production-possibilities-frontier-and-social-choices))](./image/us_brazil.png)
+
+<br>
+
+Which country has a comparative advantage in sugar cane production? Which country has a comparative advantage in wheat production? (Hint: Remember that the slope of the PPF indicates the opportunity cost of producing one good versus the other good.)
+
+### {{< fa lightbulb >}} Solution
+
+![PPF for the U.S. and Brazil (source: Principles of Microeconomics 2e ([click here](https://openstax.org/books/principles-economics-3e/pages/2-2-the-production-possibilities-frontier-and-social-choices))](./image/us_brazil.png)
+
+Recall that the slope of the PPF indicates the opportunity cost of producing one good versus the other good. The flatter the PPF, the lower the opportunity cost of producing the good on the horizontal axis.
+
+So, the U.S. has a flatter PPF (the slope of the PPF is lower) than Brazil, meaning that the opportunity cost of wheat in terms of sugar cane is lower in the U.S. than in Brazil. So, the U.S. has a comparative advantage in wheat production. Conversely, the opportunity cost of sugar cane is lower in Brazil (you can see this if you take sugar cane on the horizontal axis and wheat on the vertical axis), so Brazil has a comparative advantage in sugar cane production.
+
+<!-- end panel:app-comparative advantage  --> 
+:::
+
+::: {.notes}
++ Production Possibility Frontier for the U.S. and Brazil The U.S. 
++ PPF is flatter than the Brazil PPF implying that the opportunity cost of wheat in terms of sugar cane is lower in the U.S. than in Brazil. Conversely, the opportunity cost of sugar cane is lower in Brazil. The U.S. has comparative advantage in wheat and Brazil has comparative advantage in sugar cane.
+:::
+
+
+
+
+<!-- ## What does "marginal" mean in economics? {.center}
+
+"Marginal (something)" means the additional (something) made by producing (or consuming) one more unit of a good/service.
+
+
+::: {.callout-note}
+## Example
++ Marginal benefit: the additional benefit made by producing (or consuming) one more unit of a good/service.
++ Marginal cost: the additional cost made by producing (or consuming) one more unit of a good/service.
+:::
+
+So, marginal opportunity costs means the additional opportunity cost you incur by producing (or consuming) one more unit of a good/service.
+
+Finally, "increasing marginal opportunity costs" means that the additional opportunity cost of producing (or consuming) one more unit of a good increases as more of that good is produced (or consumed). -->
+
+ 
+<!-- ## Why does the marginal opportunity cost increase?
+
+Specifically, why does the increasing marginal opportunity cost in a Production Possibility Frontier (PPF) arise?
+
+Think about the following example:
+
+Imagine a restaurant that makes both pasta and steak dishes.
+
++ You have one scarce resource, which is labor. four chefs for pasta and four chefs for steak.
++ Allocating all the chefs to make pasta means that  -->
+
+
+## Math review: Slope of a line
+
+**Example**: $y = -2x + 6$
+
+the slope is $-2$, meaning that for every one unit increase in $x$, $y$ decreases by 2 units.
+
+<br>
+
+Don't you familiar with this concept? Yes, you do! This is the same concept as  marginal change (e.g., marginal opportunity cost) in economics.
+
+
+<br>
+
+::: {.callout-tip}
+## The formula for the slope
+Given any two points $(x_1, y_1)$ and $(x_2, y_2)$, the slope of the line passing through these two points is:
+$$
+\text{slope} = \frac{y_2 - y_1}{x_2 - x_1}
+$$
+
+:::
+
+
+## Example of the calculation of the marginal opportunity cost
+
+Suppose an economy produces two goods, Steel and Textile. The nation has the following Production Possibilities Frontier (PPF):
+
+<br>
+
+| Steel (tons) | Textile (yrds) |
+|--------------|----------------|
+| 2            | 7            |
+| 4            | 3             |
+(For example, the table means that the economy can produce 2 tons of steel and 7 yards of textile given the available resources and technology.)
+
+<br>
+
+**Question: What is the marginal opportunity cost of producing Steel?**
+
+You can phrase this question as follows: "How much textile do you need to give up to produce one more ton of steel." or more generally, "How much Textile production changes when the Steel production increases by one ton."
+
+So, 
+$$
+\frac{\text{change in textile}}{\text{change in steel}} = \frac{3-7}{4-2} = -2 \quad (\text{ or } \frac{3-7}{4-2}= \frac{-4}{2} = \frac{-2}{1} )
+$$
+
++ Negative sign means that the the production of textile decreases as the production of steel increases.\
+&rarr; The marginal opportunity cost of producing steel is 2 yards of textile.
+
+
