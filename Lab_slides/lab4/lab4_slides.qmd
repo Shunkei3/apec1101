@@ -56,7 +56,7 @@ Which country has a comparative advantage in producing Steel? Which country a co
 
 :::{.fragment}
 ::: {.callout-important}
-## Opportunity Cost of Producing a Unit of a Good
+## Opportunity Cost of Producing a Unit of a Good 
 For example, opportunity cost of a unit of steel (one ton of steel) in Brazil is the amount of textile that Brazil must give up to produce one ton of steel.
 :::
 :::
@@ -75,7 +75,7 @@ For example, opportunity cost of a unit of steel (one ton of steel) in Brazil is
 :::
 
 
-## Today's Problem: Problem 1 in Study Guide for Quiz I, modified
+## Today's Problem: Problem 1 in Study Guide for Quiz I, modified  {.center}
 
 [Now the productivity information is presented in terms of ***the time required to produce a unit of a good***:]{style="color: #f57f17;"}
 
@@ -109,7 +109,7 @@ The basic idea is the same as the previous problem. For example, to determine th
 :::
 
 
-## Today's Problem: Problem 1 in Study Guide for Quiz I 
+## Today's Problem: Problem 1 in Study Guide for Quiz I  {.center} 
 
 | Country | 1 Bushel of wheat | 1 T-shirt |
 |---------|--------------|----------------|
@@ -139,13 +139,14 @@ Canada can produce 1b of wheat in 60 minutes. With the same amount of time, Cana
 [**What about Senegal?**]{.text-orange}
 :::
 
-## Today's Problem: Problem 1 in Study Guide for Quiz I 
+## Today's Problem: Problem 1 in Study Guide for Quiz I {.center}
 
 | Country | 1 Bushel of wheat | 1 T-shirt |
 |---------|--------------|----------------|
 | Canada  | 60 minutes            | 30 minutes              |
 | Senegal | 5 hours            | 2 hours              |
 
+<br>
 
 **(b) Which country has a comparative advantage in wheat and why? Explain or illustrate.**
 
@@ -164,10 +165,10 @@ Canada can produce 1 T-shirt in 30 minutes. With the same amount of time, Canada
 :::
 
 
-## Memos:
+## Memo:
 
 
-## Summary
+## Summary {.center}
 
 
 + To determine the comparative advantage in producing a good, we need to compare the opportunity costs of producing a unit of that good in each country.
