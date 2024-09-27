@@ -80,7 +80,7 @@ format:
 
 <br>
 
-Note: The appendix is optional. You can use it for further study if you want to practice more.
+Note: The appendix is optional. You can use it for further study if you want to practice more (Solutions are attached).
 
 
 :::{.notes}
@@ -265,6 +265,7 @@ Who has a comparative advantage in producing Steel? Who has a comparative advant
   + How many tons of Steel the US gives up when they produce one yard of Textile.
 :::
 
+
 ## Memo:
 
 # Appendix
@@ -274,12 +275,12 @@ Who has a comparative advantage in producing Steel? Who has a comparative advant
 Another important aspect of the PPF is that it can shift outward or inward depending on changes in the economy's resources or technology.
 
 <!-- start panel:exercise 1   --> 
-:::{.panel-tabset}
-### {{< fa person-chalkboard >}} Instruction
+<!-- :::{.panel-tabset} -->
+<!-- ### {{< fa person-chalkboard >}} Instruction -->
 
 Consider an economy that produces smartphones and wheat under increasing marginal opportunity costs. A technological advancement in smartphone manufacturing leads to a substantial decrease in production costs relative to wheat. Illustrate this change using a production possibility curve. Explain the potential benefits for the economy resulting from this innovation.
  
-### {{< fa lightbulb >}} Solution
+## {{< fa lightbulb >}} Solution
 
 :::{.columns}
 :::{.column width=60%}
@@ -291,7 +292,7 @@ Consider an economy that produces smartphones and wheat under increasing margina
 :::
 :::
 <!-- end panel:exercise 1  --> 
-:::
+<!-- ::: -->
 
 :::{.notes}
 + When there is a technological advancement in the production of smartphones, **it shifts the Production Possibility Frontier (PPF) outward, specifically for smartphones**. This change reflects the economy’s increased ability to produce more smartphones with the same amount of resources, while the production of wheat remains unchanged.
@@ -305,9 +306,8 @@ Consider an economy that produces smartphones and wheat under increasing margina
 
 ## Exercise Problem 4 (Optional): Comparative Advantage
 
-<!-- start panel:app-comparative advantage   --> 
-:::{.panel-tabset} 
-### {{< fa person-chalkboard >}} Instruction
+<!-- start panel:app-comparative advantage   -->  
+<!-- ### {{< fa person-chalkboard >}} Instruction -->
 
 The two figures below show the PPFs of two countries, Brazil and U.S.
 
@@ -317,7 +317,7 @@ The two figures below show the PPFs of two countries, Brazil and U.S.
 
 Which country has a comparative advantage in sugar cane production? Which country has a comparative advantage in wheat production? (Hint: Remember that the slope of the PPF indicates the opportunity cost of producing one good versus the other good.)
 
-### {{< fa lightbulb >}} Solution
+## {{< fa lightbulb >}} Solution
 
 ![PPF for the U.S. and Brazil (source: Principles of Microeconomics 2e ([click here](https://openstax.org/books/principles-economics-3e/pages/2-2-the-production-possibilities-frontier-and-social-choices))](./image/us_brazil.png)
 
@@ -326,7 +326,7 @@ Recall that the slope of the PPF indicates the opportunity cost of producing one
 So, the U.S. has a flatter PPF (the slope of the PPF is lower) than Brazil, meaning that the opportunity cost of wheat in terms of sugar cane is lower in the U.S. than in Brazil. So, the U.S. has a comparative advantage in wheat production. Conversely, the opportunity cost of sugar cane is lower in Brazil (you can see this if you take sugar cane on the horizontal axis and wheat on the vertical axis), so Brazil has a comparative advantage in sugar cane production.
 
 <!-- end panel:app-comparative advantage  --> 
-:::
+
 
 ::: {.notes}
 + Production Possibility Frontier for the U.S. and Brazil The U.S. 
