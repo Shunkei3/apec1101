@@ -47,6 +47,28 @@ $monokai-bg: #2e3440;
 //   color: $blue !important;
 // }
 
+
+// Convert Sass variables to CSS custom properties
+:root {
+  --dark-orange: #{$dark-orange};
+  --blue: #{$bright-blue};
+  --red: #{red};
+}
+
+// Optional: Define reusable classes using the custom properties
+.text-orange {
+  color: var(--dark-orange);
+}
+
+.text-blue {
+  color: var(--blue);
+}
+
+.text-red {
+  color: var(--red);
+}
+
+
 // panel.tabset ----------------------------
 // default tab text color
 a[role="tab"] {
