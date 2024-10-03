@@ -1,0 +1,108 @@
+---
+title: "Lab 5: Supply and Demand"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+---
+
+## {.center}
+### {{< fa list >}} Today's Outline {.center}
+
++ Problem 1 in Study Guide for Quiz I: Comparative Advantage
++ Quiz (25 minutes)
+
+:::{.notes}
++ Today is a quiz day. Before the quiz, we will review the problem 1 in the Study Guide  because I received some questions about this problem.
++ Then, after that we will have a quiz.
+:::
+
+## Main Topics
++ Supply and Demand
+  + Substitute and Complement
+  + Demand and quantity demnaded
+  + Supply and quantity supplied 
+  + How to draw supply and demand curves
++ Price ceiling
++ Price floor
++ Taxes and subsidies
++ Equilibrium Price and Quantity
+
+## Math prep
+
+### Basic Math
++ Understanding Slope (Simplifying Math) - [YouTube](https://www.youtube.com/watch?v=ADLoWIxKsyQ)
++ Graphing Lines in Algebra: Understanding Slopes and Y-Intercepts - [YouTube](https://www.youtube.com/watch?v=lz8zVJxRFX8)
++ Simple Linear Algebra: 
+
+
+### Supply and Demand
++ Supply and demand in 8 minutes - [YouTube](https://www.youtube.com/watch?v=kIFBaaPJUO0)
++ How to Draw the DEMAND CURVE (Using the DEMAND EQUATION) | Think Econ - [YouTube](https://www.youtube.com/watch?v=Oa59CLYFfCo)
++ How to Calculate Equilibrium Price and Quantity (P* and Q*)| Economic Homework | Think Econ - [YouTube](https://www.youtube.com/watch?v=k_s8Y4s_8vg)
+
+
+## Review: Demand
+
+::: {.callout-important}
+# Key Points
++ What does demand curve show?
++ Demand and quantity demanded are different.
++ Law of demand
++ 
+:::
+
++ Demand: 
+  + the range of quantities of a commodity that a buyer is willing and able to purchase at given prices in a specified period of time.
+
+
+
+## Review: Supply
+
++ Supply:
+  + The range of quantities of a commodity that a seller is willing and able to offer for sale at different prices in a specified time period.
+  + The supply curve illustrates the alternative amounts of a good spplied at alternative pridces.
+
+:::{.notes}
++ ceteris paribus: other things constnat, 
+
++ Even though it is called demand curve, we often draw them as straight lines for simplicity. So, in this class, you can draw them as straight lines.
+:::
+
+## Quantity Demanded vs Demand
+
+
+
+## Exercise Problem:
+
+In the summer, the price of air conditioners increases, and the quantity of air conditioners sold also increases. Does this situation violate the law of demand? Use graphs and verbal explanations to explain how this could occur.
+
+
+
+
+
+## Example Problem:
+
+Explain the following statement with the concept of demand and supply:
+
+If the price of a gallon of milk increases, consumers will purchase fewer loaves of bread.
+
+## 
