@@ -50,14 +50,14 @@ $monokai-bg: #2e3440;
 
 // Convert Sass variables to CSS custom properties
 :root {
-  --dark-orange: #{$dark-orange};
+  --light-maroon: #{$light-maroon};
   --blue: #{$bright-blue};
   --red: #{red};
 }
 
 // Optional: Define reusable classes using the custom properties
 .text-orange {
-  color: var(--dark-orange);
+  color: var(--light-maroon);
 }
 
 .text-blue {
@@ -105,12 +105,13 @@ a:hover {
 
 
 // call-out box configurations
+// call-out box configurations
 .reveal .callout.callout-style-default div.callout-title {
-  font-size: 1.5rem;
+  font-size: $font-size-base;
 }
 
 .reveal .callout.callout-style-default div.callout-content {
-  font-size: 1.5rem;
+  font-size: $font-size-base;
 }
 
 .content-box-blue {

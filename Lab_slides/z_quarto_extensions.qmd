@@ -1,0 +1,12 @@
++ Quarto Extensions [here](https://quarto.org/docs/extensions/listing-revealjs.html)
+
+# List
++ Animate-graph ([here](https://github.com/ofkoru/quarto-animate-graph))
++ Quiz Extension For Quarto ([here](https://github.com/parmsam/quarto-quiz))
++ Flashcards Extension For Quarto ([here](https://github.com/parmsam/quarto-flashcards?tab=readme-ov-file))
++ LeaderLine ([here](https://github.com/ofkoru/quarto-leader-line))
+  + Demo: [here](https://omerfarukkoru.com/Packages/quarto-leader-line/example.html#/title-slide)
++ animate ([here](https://github.com/fradav/quarto-revealjs-animate))
+
+## R
++ Quarto Drop plugin for reveal.js
