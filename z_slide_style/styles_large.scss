@@ -327,7 +327,10 @@ div.qwebr-output-code-area pre {
   margin-top: 0.3rem;
 }
 
+.inline-fragment {
+  display: flex;
+}
 
-
-
-
+.inline-fragment p {
+  padding-right: 10px;
+}

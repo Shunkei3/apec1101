@@ -22,87 +22,384 @@ format:
     fig-dpi: 400
     chalkboard: true
     preview-links: false
+    touch: true
 ---
 
 ## {.center}
 ### {{< fa list >}} Today's Outline {.center}
 
-+ Problem 1 in Study Guide for Quiz I: Comparative Advantage
-+ Quiz (25 minutes)
++ The Effect of Subsidies on Equilibrium Price and Quantity
+  + Exercise Problem 1: 
 
-:::{.notes}
-+ Today is a quiz day. Before the quiz, we will review the problem 1 in the Study Guide  because I received some questions about this problem.
-+ Then, after that we will have a quiz.
++ Demand Analysis
+  + Exercise Problem 2
+  + Exercise Problem 3 (If time allows)
+
+## Key Points: Supply and Demand {.center}
+
+::: {.callout-important}
++ What is the difference between demand (supply) and quantity demanded (quantity supplied).
++ What is the law of demand (law of supply)?
++ If the two goods are substitutes (complements), what happens to the demand for one good if the price of the other good increases?
++ Normal goods vs. Inferior goods
++ Equilibrium price and quantity
++ How do taxes and subsidies affect the equilibrium price and quantity.
++ The consequence of a price ceiling and a price floor on the market.
 :::
 
-## Main Topics
+<!-- ## Main Topics
 + Supply and Demand
   + Substitute and Complement
   + Demand and quantity demnaded
   + Supply and quantity supplied 
   + How to draw supply and demand curves
+  + Law of demand, Law of supply
 + Price ceiling
 + Price floor
 + Taxes and subsidies
-+ Equilibrium Price and Quantity
++ Equilibrium Price and Quantity -->
 
-## Math prep
+
+:::{.notes}
++ These are the key points that you should know for this topic. Please review these points when you study.
+:::
+
+
+## Math Prep {.center}
 
 ### Basic Math
-+ Understanding Slope (Simplifying Math) - [YouTube](https://www.youtube.com/watch?v=ADLoWIxKsyQ)
-+ Graphing Lines in Algebra: Understanding Slopes and Y-Intercepts - [YouTube](https://www.youtube.com/watch?v=lz8zVJxRFX8)
-+ Simple Linear Algebra: 
 
++ Understanding Slope (Simplifying Math) - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=ADLoWIxKsyQ)
++ Graphing Lines in Algebra: Understanding Slopes and Y-Intercepts - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=lz8zVJxRFX8)
 
 ### Supply and Demand
 + Supply and demand in 8 minutes - [YouTube](https://www.youtube.com/watch?v=kIFBaaPJUO0)
-+ How to Draw the DEMAND CURVE (Using the DEMAND EQUATION) | Think Econ - [YouTube](https://www.youtube.com/watch?v=Oa59CLYFfCo)
-+ How to Calculate Equilibrium Price and Quantity (P* and Q*)| Economic Homework | Think Econ - [YouTube](https://www.youtube.com/watch?v=k_s8Y4s_8vg)
++ How to Draw the DEMAND CURVE (Using the DEMAND EQUATION) | Think Econ - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=Oa59CLYFfCo)
++ How to Calculate Equilibrium Price and Quantity (P* and Q*)| Economic Homework | Think Econ - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=k_s8Y4s_8vg)
 
 
-## Review: Demand
+## In the Last Class...
 
-::: {.callout-important}
-# Key Points
-+ What does demand curve show?
-+ Demand and quantity demanded are different.
-+ Law of demand
+::: {.callout-note}
+## Question (Review)
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
+
+Suppose and **excise tax of $2 is levied on the seller of T-shirts**. What will happen to the equilibrium price quantity of shirts in the market?
+:::
+
+<br>
+
+### How did we derive the new supply curve?
+
+:::{.fragment .fade-up}
+$P$ is the price the seller receives from the buyer. [Out of the price $P$ the seller receives, $\$2$ goes to the government as tax]{.fragment .highlight-current-red}. Therefore, [the price the seller virtually receives is $P-2$]{.fragment .highlight-red}.
+:::
+
+<br>
+
+:::{.fragment .fade-right}
+So, the supply curve becomes $Q_s = 5000+ 1000\color{red}{(P-2)}$. Then, we derived the new equilibrium price and quantity by solving the new supply curve and the demand curve.
+:::
+
+:::{.notes}
++ Do you understand this logic?
+:::
+
+
+## Exercise Problem 1 (Study Guide Problem 7, Subsidy Version)
+
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
+
+1. Graph the demand and supply curves. What is the equilibrium price and quantity of T-shirts?
+
+2. Suppose that the Government offers a subsidy of $2 per T-shirt to the consumers. What is the new equilibrium price and quantity of T-shirts?
+
+3. Suppose that the Government offers a subsidy of $2 per T-shirt to the sellers. What is the new equilibrium price and quantity of T-shirts?
+:::
+<br>
+
+Let's solve these problems one by one.
+
+:::{.notes}
++ This is an extension of the problem 7 in the Study Guide. I added some more questions to this problem.
++ For question 1, 
+:::
+
+
+## Exercise Problem 1 - Part 1
+
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
+
+1. Graph the demand and supply curves. What is the equilibrium price and quantity of T-shirts?
+:::
+
+<br>
+
+:::{.goals}
+::::{.goals-header}
+Key Points
+::::
+::::{.goals-container}
++ Understand how to draw the demand and supply curves.
++ Understand how to find the equilibrium price and quantity.
+::::
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+[**The easiest and fastest way to draw the demand and supply curves is to find the x-intercept (P-intercept) and y-intercept (Q-intercept) of the equations, and then draw the lines.**]{.text-orange}
+:::
+
+## Exercise Problem 1 - Part 2
+
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
+
+2. Suppose that the Government offers [a subsidy of $2 per T-shirt to the consumers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+:::
+
+<br>
+
+:::{.goals}
+::::{.goals-header}
+Key Points
+::::
+::::{.goals-container}
++ Understand how to set up the new demand curve when the subsidy is given to the consumers.
++ Understand how giving subsidies to the consumers affects the equilibrium price and quantity.
+::::
+:::
+
+
+<br>
+
+:::{.fragment .fade-right}
+### Before we start numerically solving this problem...
+
+Let's guess what will happen to the equilibrium price and quantity when the **subsidy** is given to the **consumers**. Does the equilibrium price increase or decrease? Does the equilibrium quantity increase or decrease?
+:::
+
+
+:::{.notes}
++ Since the subsidy is given to the consumers, we can expect that it will affect the demand curve somehow. Do you agree with this?
++ Then, the next question is how the subsidy affects the demand curve. Do you think it will shift the demand curve to the right or left?
 + 
 :::
 
-+ Demand: 
-  + the range of quantities of a commodity that a buyer is willing and able to purchase at given prices in a specified period of time.
 
 
+## Exercise Problem 1 - Part 2
 
-## Review: Supply
+::: {.callout-note}
 
-+ Supply:
-  + The range of quantities of a commodity that a seller is willing and able to offer for sale at different prices in a specified time period.
-  + The supply curve illustrates the alternative amounts of a good spplied at alternative pridces.
+## {{< fa person-chalkboard >}} Question
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
 
-:::{.notes}
-+ ceteris paribus: other things constnat, 
-
-+ Even though it is called demand curve, we often draw them as straight lines for simplicity. So, in this class, you can draw them as straight lines.
+1. Suppose that the government offers [a subsidy of $2 per T-shirt to the consumers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
 :::
 
-## Quantity Demanded vs Demand
+<br>
+
+Consumer pays $P$ to buy $Q_d$ T-shirts, but the government gives $2$ to the consumer. Therefore, the price that the consumer virtually pays is $P-2$.
+
+:::{.fragment .fade-up}
+Therefore, the new demand curve is $Q_d = 20,000 - 500(P-2)$.
+:::
+
+## Exercise Problem 1 - Part 3
+
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
+
+3. Suppose that the government offers [a subsidy of $2 per T-shirt to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+:::
+
+<br>
+
+:::{.goals}
+::::{.goals-header}
+Key Points
+::::
+::::{.goals-container}
++ Understand how to set up the new demand curve when the subsidy is given to the producers.
++ Understand how giving subsidies to the producers affects the equilibrium price and quantity.
+::::
+:::
+
+### Before we start numerically solving this problem...
+
+Let's guess what will happen to the equilibrium price and quantity when the **subsidy** is given to the **producers**. Does the equilibrium price increase or decrease? Does the equilibrium quantity increase or decrease?
 
 
+## Exercise Problem 1 - Part 3
 
-## Exercise Problem:
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
 
-In the summer, the price of air conditioners increases, and the quantity of air conditioners sold also increases. Does this situation violate the law of demand? Use graphs and verbal explanations to explain how this could occur.
+3. Suppose that the government offers [a subsidy of $2 per T-shirt to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+:::
+
+The producer receives $P$ from the consumer, but [the government gives $2$ to the producer]{.text-red}. Therefore, the price that the producer virtually receives is [$P+2$]{.text-red}.
+
+:::{.fragment .fade-up}
+Therefore, the new supply curve is $Q_s = 5000 + 1000\color{red}{(P+2)}$.
+:::
 
 
+## Exercie Problem 2:
+
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+In November, the price of Thanksgiving turkeys increases, and the quantity of turkeys sold also increases. Does this situation violate the law of demand? Use graphs and verbal explanations to explain your answer.
+:::
+
+<br>
+
+:::{.goals}
+::::{.goals-header}
+Key Points
+::::
+::::{.goals-container}
++ Understand the difference between the demand and quantity demanded.
+::::
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+Do you remember the law of demand? What is the law of demand?
+:::
+
+:::{.notes}
++ The law of demand states that the quantity demanded of a good decreases as the price of the good increases, ceteris paribus.
++ Here, wired situation happens. If the price of the turkey increases, the quantity of turkeys should decrease according to the law of demand. However, the quantity of turkeys increases! What is happening here?
+:::
 
 
+## Exercise Problem 2:
 
-## Example Problem:
+If the price of Thanksgiving turkeys increases, and the quantity of turkeys sold also increases, does this situation violate the law of demand?
 
-Explain the following statement with the concept of demand and supply:
+<br>
 
-If the price of a gallon of milk increases, consumers will purchase fewer loaves of bread.
++ **No**. During the Thanksgiving season, the demand for turkeys increases [because people are willing to pay more for turkeys to celebrate Thanksgiving (consumers' seasonal preferences, cultural traditions, etc.)]{.text-blue}. 
++ These non-price determinants of demand shift the demand curve to the right.
++ As a result, the price and quantity of turkeys increase, ceteris paribus.
 
-## 
+<br>
+
+### Can you explain this situation using the supply and demand diagram?
+
+
+:::{.notes}
++ Just because the price of the 
+
+:::
+
+
+## Review: Change in Quantity Demanded vs. Change in Demand
+*NOTE:* Same logic applies to Change in Quantity Supplied vs. Change in Supply.
+
+:::{.columns}
+:::{.column width="50%"}
+### Change in Quantity Demanded 
+Change in quantity demanded is caused by [a change in the price of the good]{.text-red}. It is represented by a movement along the same demand curve.
+
+![If price increases from P1 to P2, the quantity demanded decreases from Q1 to Q2 (i.e., **Law of demand**.)](z_images/ch_d_q.png){width=65%}
+:::
+
+:::{.column width="50%"}
+:::{.fragment .fade-up}
+### Change in Demand
+Change in demand means that the entire demand curve shifts. It is caused by [a change in a non-price determinant of demand (taste and preferences, income, etc.)]{.text-red}.
+
+![For example, the demand shifts to the left if the price of a substitute good decreases.](z_images/ch_d.png){width=55%}
+:::
+:::
+:::
+
+## Exercise Problem 3 (If time allows):
+
+::: {.callout-note}
+## {{< fa person-chalkboard >}} Question
+
+Use supply and demand diagrams and verbal explanations to show the effect of the following events on the market for electric bicycles (e-bikes):
+
+a. A new regulation significantly increases taxes on battery imports.
+b. The price of public transportation fares is reduced.
+c. A popular fitness trend encourages people to commute using environmentally friendly methods, such as e-bikes.
+d. A technological advancement improves the battery life and charging speed of e-bikes.
+:::
+
+## Exercise Problem 3 - Part a {.center}
+
+:::{.columns}
+:::{.column width="50%"}
+
++ The higher cost of importing batteries leads to an increase in the overall production costs for e-bikes. As a result, at any given price, producers are willing to supply fewer e-bikes. 
++ This shifts the supply curve to the left.
++ As a result, the equilibrium price increases and quantity of e-bikes decreases.
+:::
+
+:::{.column width="50%"}
+![](z_images/ex3_a.jpeg){width=70%}
+:::
+:::
+
+## Exercise Problem 3 - Part b {.center}
+
+:::{.columns}
+:::{.column width="50%"}
++ The lower cost of public transportation makes it more attractive for consumers to use public transportation instead of e-bikes, leading to a decrease in the demand for e-bikes.
++ This shifts the demand curve to the left.
++ As a result, the equilibrium price decreases and quantity of e-bikes decreases.
+:::
+
+:::{.column width="50%"}
+![](z_images/ex3_b.jpeg){width=70%}
+:::
+:::
+
+
+## Exercise Problem 3 - Part c {.center}
+
+:::{.columns}
+:::{.column width="50%"}
++ Due to the fitness trend, the demand for e-bikes increases. 
++ This shifts the demand curve to the right.
++ As a result, the equilibrium price increases and quantity of e-bikes increases.
+:::
+
+:::{.column width="50%"}
+![](z_images/ex3_c.jpeg){width=70%}
+:::
+:::
+
+
+## Exercise Problem 3 - Part d {.center}
+
+:::{.columns}
+:::{.column width="50%"}
++ The technological advancement allows producers to produce e-bikes at a lower cost.
++ This shifts the supply curve to the right.
++ As a result, the equilibrium price decreases and quantity of e-bikes increases.
+:::
+
+:::{.column width="50%"}
+![](z_images/ex3_d.jpeg){width=70%}
+:::
+:::
+:::{.notes}
++ I graded Quiz1. Most of the students did well on question 1 and 2. But, it seems that some students had difficulty with the last question. I created answer keys and attached them to your quiz. So, please check your quiz and answer keys.
++ Maybe, the similar question might be on the exam. 
++ Please come to the front to pick up your quiz.
+:::
+
