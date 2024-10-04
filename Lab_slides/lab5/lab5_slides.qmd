@@ -206,7 +206,7 @@ Suppose the demand and supply curves for T-shirts at a popular resort are given 
 
 <br>
 
-Consumer pays $P$ to buy $Q_d$ T-shirts, but the government gives $2$ to the consumer. Therefore, the price that the consumer virtually pays is $P-2$.
+Consumer pays $P$ to buy $Q_d$ T-shirts, but the government gives $$2$ to the consumer. Therefore, the price that the consumer virtually pays is $P-2$.
 
 :::{.fragment .fade-up}
 Therefore, the new demand curve is $Q_d = 20,000 - 500(P-2)$.
@@ -247,7 +247,7 @@ Suppose the demand and supply curves for T-shirts at a popular resort are given 
 3. Suppose that the government offers [a subsidy of $2 per T-shirt to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
 :::
 
-The producer receives $P$ from the consumer, but [the government gives $2$ to the producer]{.text-red}. Therefore, the price that the producer virtually receives is [$P+2$]{.text-red}.
+The producer receives $P$ from the consumer, but [the government gives $$2$ to the producer]{.text-red}. Therefore, the price that the producer virtually receives is [$P+2$]{.text-red}.
 
 :::{.fragment .fade-up}
 Therefore, the new supply curve is $Q_s = 5000 + 1000\color{red}{(P+2)}$.
