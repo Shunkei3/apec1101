@@ -201,7 +201,7 @@ Let's guess what will happen to the equilibrium price and quantity when the **su
 ## {{< fa person-chalkboard >}} Question
 Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
 
-1. Suppose that the government offers [a subsidy of $2 per T-shirt to the consumers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+1. Suppose that the government offers [a subsidy of $2 to the consumers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
 :::
 
 <br>
