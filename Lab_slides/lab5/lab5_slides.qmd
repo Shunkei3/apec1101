@@ -73,7 +73,7 @@ format:
 + Graphing Lines in Algebra: Understanding Slopes and Y-Intercepts - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=lz8zVJxRFX8)
 
 ### Supply and Demand
-+ Supply and demand in 8 minutes - [YouTube](https://www.youtube.com/watch?v=kIFBaaPJUO0)
++ Supply and demand in 8 minutes - [{{< fa brands youtube >}}  YouTube](https://www.youtube.com/watch?v=kIFBaaPJUO0)
 + How to Draw the DEMAND CURVE (Using the DEMAND EQUATION) | Think Econ - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=Oa59CLYFfCo)
 + How to Calculate Equilibrium Price and Quantity (P* and Q*)| Economic Homework | Think Econ - [{{< fa brands youtube >}} YouTube](https://www.youtube.com/watch?v=k_s8Y4s_8vg)
 
@@ -114,9 +114,9 @@ Suppose the demand and supply curves for T-shirts at a popular resort are given 
 
 1. Graph the demand and supply curves. What is the equilibrium price and quantity of T-shirts?
 
-2. Suppose that the Government offers a subsidy of $2 per T-shirt to the consumers. What is the new equilibrium price and quantity of T-shirts?
+2. Suppose that the Government offers a subsidy of $2 to the consumers. What is the new equilibrium price and quantity of T-shirts?
 
-3. Suppose that the Government offers a subsidy of $2 per T-shirt to the sellers. What is the new equilibrium price and quantity of T-shirts?
+3. Suppose that the Government offers a subsidy of $2 to the sellers. What is the new equilibrium price and quantity of T-shirts?
 :::
 <br>
 
@@ -161,7 +161,7 @@ Key Points
 ## {{< fa person-chalkboard >}} Question
 Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
 
-2. Suppose that the Government offers [a subsidy of $2 per T-shirt to the consumers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+1. Suppose that the Government offers [a subsidy of $2 to the consumers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
 :::
 
 <br>
@@ -218,7 +218,7 @@ Therefore, the new demand curve is $Q_d = 20,000 - 500(P-2)$.
 ## {{< fa person-chalkboard >}} Question
 Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
 
-3. Suppose that the government offers [a subsidy of $2 per T-shirt to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+3. Suppose that the government offers [a subsidy of $2 to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
 :::
 
 <br>
@@ -244,7 +244,7 @@ Let's guess what will happen to the equilibrium price and quantity when the **su
 ## {{< fa person-chalkboard >}} Question
 Suppose the demand and supply curves for T-shirts at a popular resort are given by the following equations: $\color{blue}{Q_d = 20,000 −500P}$ and $\color{blue}{Q_s = 5000+ 1000P}$.
 
-3. Suppose that the government offers [a subsidy of $2 per T-shirt to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
+3. Suppose that the government offers [a subsidy of $2 to the producers]{.text-blue}. What is the new equilibrium price and quantity of T-shirts?
 :::
 
 The producer receives $P$ from the consumer, but [the government gives $$2$ to the producer]{.text-red}. Therefore, the price that the producer virtually receives is [$P+2$]{.text-red}.
