@@ -92,7 +92,7 @@ $$
 :::{.fragment .fade-up}
 ### Example
 1. When price changes from $P_1 = \$10$ to $P_2 = \$12$, what is the percentage change in price?
-2. When price changes from $P_1 = € 2000$ to $P_2 = €4000$, what is the percentage change in price?
+2. When price changes from $P_1 = € 2000$ to $P_2 = €2400$, what is the percentage change in price?
 :::
 
 <br>
@@ -251,7 +251,7 @@ How to Calculate the Price Elasticity of Demand with Point Method?
 ::::{.ideas-container}
 The price elasticity of demand can be re-written as follows:
 
-$$E_D = \frac{\% \Delta \text{ in } Q_d}{\% \Delta \text{ in } P } = \frac{{\Delta P}/ P}{\Delta Q/ Q} = \frac{\Delta Q}{\Delta P} \cdot \frac{P}{Q}$$
+$$E_D = \frac{\% \Delta \text{ in } Q_d}{\% \Delta \text{ in } P } = \frac{{\Delta Q}/ Q}{\Delta P/ P} = \frac{\Delta Q}{\Delta P} \cdot \frac{P}{Q}$$
 
 
 Now, suppose that [the slope of the demand curve is $b$]{style="color:blue;"}. Then, the pice elasticity of demand at [a specific point $(P^{\ast}, Q^{\ast})$]{.text-red} is given by:
