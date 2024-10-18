@@ -268,7 +268,7 @@ $$E_D = \color{blue}{\frac{1}{b}} \cdot \color{red}{\frac{P^{\ast}}{Q^{\ast}}}$$
 **Definition of the coefficient of price elasticity of demand:**
 ::::
 ::::{.ideas-container}
-$$E_D = \frac{\% \Delta \text{ in } Q_d}{\% \Delta \text{ in } P } = \frac{{\Delta P}/ P}{\Delta Q/ Q} = \color{blue}{\frac{\Delta Q}{\Delta P}} \cdot \color{red}{\frac{P}{Q}}$$
+$$E_D = \frac{\% \Delta \text{ in } Q_d}{\% \Delta \text{ in } P } = \frac{\Delta P/ P} {\Delta Q/ Q} = \color{blue}{\frac{\Delta Q}{\Delta P}} \cdot \color{red}{\frac{P}{Q}}$$
 ::::
 :::
 
