@@ -33,5 +33,9 @@ TestResults.xml
 
 z_exercise/
 
-Assignment/
+# Assignment/
 z_quiz
+
+Assignment
+
+Lab_slides/z_quarto_extensions.qmd

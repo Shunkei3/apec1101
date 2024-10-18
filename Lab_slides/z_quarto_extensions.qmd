@@ -1,5 +1,9 @@
 + Quarto Extensions [here](https://quarto.org/docs/extensions/listing-revealjs.html)
 
+
++ Incremental Slides ([here](https://emilhvitfeldt.com/post/slidecraft-7-tips-and-tricks/))
+
+
 # List
 + Animate-graph ([here](https://github.com/ofkoru/quarto-animate-graph))
 + Quiz Extension For Quarto ([here](https://github.com/parmsam/quarto-quiz))
@@ -7,6 +11,7 @@
 + LeaderLine ([here](https://github.com/ofkoru/quarto-leader-line))
   + Demo: [here](https://omerfarukkoru.com/Packages/quarto-leader-line/example.html#/title-slide)
 + animate ([here](https://github.com/fradav/quarto-revealjs-animate))
-
++ Excalidraw Extension For Quarto
+  + Can I use my iPad?
 ## R
 + Quarto Drop plugin for reveal.js
