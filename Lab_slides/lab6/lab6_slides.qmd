@@ -25,7 +25,7 @@ format:
     touch: true
 ---
 
-## Hades Up {.center}
+## Announcement {.center}
 
 + Assignment 2 is not available yet.
 + Quiz 2 will be on next lab session. Be prepared for it!
