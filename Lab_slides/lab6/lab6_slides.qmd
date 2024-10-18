@@ -251,7 +251,7 @@ How to Calculate the Price Elasticity of Demand with Point Method?
 ::::{.ideas-container}
 The price elasticity of demand can be re-written as follows:
 
-$$E_D = \frac{\% \Delta \text{ in } Q_d}{\% \Delta \text{ in } P } = \frac{{\Delta Q}/ Q}{\Delta P/ P} = \frac{\Delta Q}{\Delta P} \cdot \frac{P}{Q}$$
+$$E_D = \frac{\% \Delta \text{ in } Q_d}{\% \Delta \text{ in } P } = \frac{\Delta Q/ Q}{\Delta P/ P} = \frac{\Delta Q}{\Delta P} \cdot \frac{P}{Q}$$
 
 
 Now, suppose that [the slope of the demand curve is $b$]{style="color:blue;"}. Then, the pice elasticity of demand at [a specific point $(P^{\ast}, Q^{\ast})$]{.text-red} is given by:
