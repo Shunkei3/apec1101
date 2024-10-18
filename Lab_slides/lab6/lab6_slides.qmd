@@ -1,0 +1,188 @@
+---
+title: "Lab 6: Price Elasticity of Demand"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+    touch: true
+---
+
+## Hades Up {.center}
+
++ Assignment 2 is not available yet.
++ Quiz 2 will be on next lab session. Be prepared for it!
+
+
+## This Week's Key Points: {.center}
+
+::: {.callout-important}
++ What are Consumer Surplus and Producer Surplus?
+  + Can you calculate them?
++ What is the definition of the price elasticity of demand?
+  + Explain in words and show the mathematical formula.
+  + How to interpret the coefficient of price elasticity of demand?
+:::
+
+:::{.notes}
++ The price elasticity of demand is the percentage change in quantity demanded by the percentage change in price.
+:::
+
+
+## {.center}
+
+### Goal: 
+
++ Let's get use to the concept of price elasticity of demand. 
+
+### {{< fa list >}} Today's Outline {.center}
+
++ Math Prep: What is the meaning of the percentage change?
++ Review: Price Elasticity of Demand
+  + Definition
+  + What is the meaning of the price elasticity of demand?
+
++ Exercise Problem 1
++ Exercise Problem 2
+
+
+## Math Prep: What is the percentage change? {.center}
+
+Suppose that variable $X$ changes from $X_1$ to $X_2$. [**In general**]{.text-red}, the percentage change in a variable $X$ is calculated as:
+
+$$
+\%  \Delta \text{ in X} = \frac{X_2 - X_1}{X_1} \times 100
+$$
+
+
++ *NOTE:* $\color{blue}{\Delta}$ is a math symbol that means ["change in"]{style="color:blue;"}. So, $\color{blue}{\% \Delta \text{ in P}}$ stands for ["percentage change in X"]{style="color:blue;"}.
+
+<br>
+
+:::{.fragment .fade-up}
+### Example
+1. When price changes from $P_1 = \$10$ to $P_2 = \$12$, what is the percentage change in price?
+2. When price changes from $P_1 = € 2000$ to $P_2 = €4000$, what is the percentage change in price?
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+:::{.stopthink}
+::::{.stopthink-header}
+Note
+::::
+::::{.stopthink-container}
+Notice that the percentage change in price is the same in both cases ($20\%$) even though the absolute change in price is different. [The advantage of using percentage change is that it allows us to compare changes across different scales.]{.text-orange}
+::::
+:::
+:::
+
+:::{.notes}
++ Since it is early in the morning, let's warm up with a simple math question.
++ Here, let's review the concept of percentage change.
++ the difference between the terminal number (ending number) and the initial number (starting number) divided by the initial number.
++ For example, we can compare price elasticity of demand between two different products. Or, we can compare the price elasticity of demand for the same product between two different countries.
+:::
+
+## Coefficient of Price Elasticity of Demand {.center}
+
+:::{.ideas}
+::::{.ideas-header}
+Definition
+::::
+::::{.ideas-container}
+The price elasticity of demand is the responsiveness of quantity demanded to changes in price. 
+
+$$E_D = \frac{\% \text{ change in } Q_d}{\% \text{ change in } P }$$
+::::
+:::
+
+### Two Approaches to Calculate the Price Elasticity of Demand {.center}
+
+1. **Midpoint Method**:
+2. **Point Method**:
+
+## Point Method {.center}
+
++ You can use the midpoint method [when you have two points on the demand curve]{.text-red}.
+
+$$$$
+
++ Instead of using the initial point, you use the midpoint between the two points to calculate the percentage change in quantity demanded and price!
+
+
+## Midpoint Method {.center}
+
+
+
+
+## Summary
+
+
+
+
+
+# Appendix
+
+## Coefficient of Price Elasticity of Demand {.center} (side note)
+
+This is the definition of the price elasticity of demand.
+$$E_D = \frac{\% \text{ change in } Q_d}{\% \text{ change in } P }$$
+
+Mathematically, $\color{blue}{\% \text{ change in } Q_d}$ and $\color{blue}{\% \text{ change in } P}$ can be written as:
+
+\begin{align*}
+\% \text{ change in } Q_d = \frac{\Delta Q}{Q}\\
+\% \text{ change in } P =  \frac{\Delta P}{P}
+\end{align*}
+
+Let's substitute these into the formula of the price elasticity of demand.
+
+\begin{align*}
+E_D = 
+\end{align*}
+
+
+
+## Two Approaches to Calculate the Price Elasticity of Demand {.center}
+
+
+1. **Point Method**:
++ You can use the point method [when you have a demand equation (e.g., $Q_d = - 40P + 800$)].
+
+
+:::{.stopthink}
+::::{.stopthink-header}
+Comment: 
+::::
+::::{.stopthink-container}
++ You can use the point method when you have a demand equation (e.g., $Q_d = a - bP$).
+::::
+:::
++ [You can use point method when you have demand equation.]{.text-red}
+
+
+
+## {{< fa person-chalkboard >}} Exercise Problem 1
+
+
+
+## {{< fa person-chalkboard >}} Exercise Problem 2
