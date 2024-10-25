@@ -1,0 +1,165 @@
+---
+title: "Lab 7: Price Elasticity of Demand - Part II"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+    touch: true
+---
+
+## Announcements {.center}
+
++ Assignment 2 is due on November 11th, Monday.
++ [**I will return Exam I at the end of class.**]{.text-orange}
+
+
+
+## Do you remember what we did in the last lab? {.center}
+
++ We reviewed the concept of price elasticity of demand and how to calculate it.
+  + You need to be able to explain the concept in words and be able to show the formula.
+
++ We did some exercise problems to practice calculating price elasticity of demand.
+  + Midpoint method and Point method
+  + Do you remember when to use the midpoint method and when to use the point method?
+
+<br>
+
+:::{.fragment .fade-in}
+::: {.callout-important}
+## Important!!!
++ Please solve the exercise problems we did in the last lab many times until you feel comfortable.
+  + The solution was sent to you last week on Canvas.
+:::
+We will work on a similar problem today!
+:::
+
+## {{< fa list >}} Outline {.center}
+
+:::{.goals}
+::::{.goals-header}
+Today's Goal: 
+::::
+::::{.goals-container}
++ To be able to calculate price elasticity of demand with point method.
+::::
+:::
+
++ Quizzes to check your understanding
++ Practice Exercise 2: Price elasticity of demand along a linear demand curve.
+
+:::{.notes}
++ I want to start with some quizzes to check your understanding. 
++ Then, we will move on to the exercise problems. 
+::: 
+
+
+## {{< fa person-chalkboard >}} Quiz: Check your understanding
+
+**Part 1.** Write down the formula for price elasticity of demand.
+
+<br>
+
+**Part 2.** The coefficient of price elasticity of demand is always negative. Why? (Answer with one sentence).
+
+<br>
+
+**Part 3.** Suppose the price of a product increases from $9 to $10, but the quantity demanded stays constant at 100 units. What type of price elasticity does this product exhibit? Draw the demand curve for this product.
+
+<br>
+
+**Part 4.** (*Important Question*) Is the following statement correct? If not, why?: "The price elasticity of demand is constant along a linear demand curve. True or False."
+
+:::{.notes}
++ Maybe the similar questions will be on the next quiz.
++ Part 4: 
+:::
+
+## Memo: 
+
+
+## {.center} 
+
+
+**Part 4.** (*Important Question*) Is the following statement correct? If not, why?: "The price elasticity of demand is constant along a linear demand curve. True or False."
+
+<br>
+
+### Answer {.center}
+
+[**False**. It varies along the demand curve]{.text-blue}.
+
+<br>
+
+### Why?
+
+:::{.fragment .fade-up}
+Recall the formula for price elasticity of demand:
+$$
+\text{Price elasticity of demand} = \frac{\% \Delta Q_D}{\% \Delta P} = \frac{\Delta Q_D / Q_D}{\Delta P / P} = \color{blue}{\frac{\Delta Q_D}{\Delta P}} \times \color{red}{\frac{P}{Q_D}}
+$$
+
+The price elasticity of demand is calculated with the product of two ratios: $\color{blue}{\frac{\Delta Q_D}{\Delta P}}$ and $\color{red}{\frac{P}{Q_D}}$. 
+
+:::{.stopthink}
+::::{.stopthink-header}
+Question
+::::
+::::{.stopthink-container}
+For a linear demand curve, [which ratio is constant and which ratio changes as we move along the demand curve?]{.text-orange}
+::::
+:::
+:::
+
+:::{.fragment .fade-up}
++ For a linear demand curve, 
+  + the slope of the demand is consistent. So, $\color{blue}{\frac{\Delta Q_D}{\Delta P}}$ [is constant]{style="color:blue;"}.
+  + But the ratio $\color{red}{\frac{P}{Q_D}}$ [changes as we move along the demand curve]{style="color:red;"}.
+:::
+
+
+## {{< fa person-chalkboard >}} Exercise 1: {.center}
+
+Suppose you have the following demand equation $\color{blue}{Q_D = 500 - 5 P}$.
+
+1. Calculate the price elasticity of demand when $\color{blue}{P = 40}$. What about when $\color{blue}{P = 60}$. 
+2. At what price and quantity combination will the price elasticity of demand equal 1 (i.e., when demand is unit elastic)?
+3. Since the demand curve is linear, explain how the elasticity of demand changes as we move along the demand curve.
+
+:::{.notes}
++ Part 1: 
+  + the elasticity of demand when P = 40 is -0.67, indicating that demand is inelastic at this price.
+  + the elasticity of demand when P = 60 is -1.5, indicating that demand is elastic at this price.
++ Part 2: The price elasticity of demand is unit elastic when P = 50 and Q_d = 250.
++ What is the intuition behind the elasticity of demand changing as we move along the demand curve?
+  + In general, demand is elastic in the upper half of any linear demand curve, so total revenue moves in the direction of the quantity change. Moving from point A to point B implies a reduction in price and an increase in the quantity demanded. Demand is elastic between these two points.
+
+
+## Memo: 
+
+
+## Exam I {.center}
+
+A couple of notes:
+
++ Ensure your exam score is the same as the score recorded on the Canvas site.
++ Make sure the points on your exam have been added correctly. If there is an error, please let me know, and I will correct it.
++ If you are satisfied with your exam score and you have no questions, you can leave the classroom and keep your exam.
