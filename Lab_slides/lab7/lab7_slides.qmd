@@ -72,7 +72,7 @@ Today's Goal:
 ::: 
 
 
-## {{< fa person-chalkboard >}} Quiz: Check your understanding
+## {{< fa person-chalkboard >}} Quiz: Check Your Understanding
 
 **Part 1.** Write down the formula for price elasticity of demand.
 
@@ -151,10 +151,31 @@ Suppose you have the following demand equation $\color{blue}{Q_D = 500 - 5 P}$.
 + Part 2: The price elasticity of demand is unit elastic when P = 50 and Q_d = 250.
 + What is the intuition behind the elasticity of demand changing as we move along the demand curve?
   + In general, demand is elastic in the upper half of any linear demand curve, so total revenue moves in the direction of the quantity change. Moving from point A to point B implies a reduction in price and an increase in the quantity demanded. Demand is elastic between these two points.
-
+:::
 
 ## Memo: 
 
+
+
+## Elasticities Changes Along Demand Curve {.center}
+
+Depending on the level of price ($P$) and quantity ($Q_D$), the price elasticity of demand changes. The figure shows the different elasticities of demand along the demand curve $Q_D = 500 - 5P$.
+
+<br>
+
+![](z_images/ela.jpeg){fig-align="center"}
+
+[**As the quantity demanded increases and price decreases along the demand curve, the demand becomes more inelastic.**]{.text-orange}
+
+
+<!-- :::{.stopthink}
+::::{.stopthink-header}
+Stop and Think
+::::
+::::{.stopthink-container}
+Think about this in the real world context.
+::::
+::: -->
 
 ## Exam I {.center}
 
