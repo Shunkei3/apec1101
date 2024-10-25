@@ -72,7 +72,7 @@ Today's Goal:
 ::: 
 
 
-## {{< fa person-chalkboard >}} Quiz: Check Your Understanding
+## {{< fa person-chalkboard >}} Quiz: Check Your Understanding {.center}
 
 **Part 1.** Write down the formula for price elasticity of demand.
 
@@ -129,10 +129,9 @@ For a linear demand curve, [which ratio is constant and which ratio changes as w
 :::
 :::
 
-:::{.fragment .fade-up}
-+ For a linear demand curve, 
-  + the slope of the demand is consistent. So, $\color{blue}{\frac{\Delta Q_D}{\Delta P}}$ [is constant]{style="color:blue;"}.
-  + But the ratio $\color{red}{\frac{P}{Q_D}}$ [changes as we move along the demand curve]{style="color:red;"}.
+:::{.fragment .fade-up} 
++ the slope of the demand is consistent. So, $\color{blue}{\frac{\Delta Q_D}{\Delta P}}$ [is constant]{style="color:blue;"}.
++ But the ratio $\color{red}{\frac{P}{Q_D}}$ [changes as we move along the demand curve]{style="color:red;"}.
 :::
 
 
