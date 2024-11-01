@@ -26,24 +26,24 @@ format:
 ---
 
 
-## outlines {.center}
+## {{< fa list >}} Outlines {.center}
 
 Today, we will solve the rest of the in-class exercises from the last class (Problem 11 - 15).
 
 
-## Various kind of elasticity: {.center}
+## Various Kinds of Elasticity: {.center}
 
-+ Own Price Elasticity of Demand ($E_D$) (&larr; we practiced this a lot!)
++ (Own) Price Elasticity of Demand ($E_D$) (&larr; we practiced this a lot!)
 + Income Elasticity of Demand ($E_I$)
 + Cross-Price Elasticity of Demand ($E_{Q_B, P_A}$)
-+ Price Elasticity of Supply ($E_S$)
++ (Own) Price Elasticity of Supply ($E_S$)
 
 
 <br>
 
 ::: {.callout-tip}
 ## Key Points:
-+ The basic ideas and the formula for the calculation are the very similar for all types of elasticity. The only difference is the type of relationship that is being measured.
++ The basic ideas and the formula for the calculation are very similar for all types of elasticity. The only difference is the type of relationship that is being measured.
 + [(*Important*) Understand when to use each type of elasticity, and how to interpret the results.]{.text-red}
   + For example, what does $E_I < 0$ mean about the nature of the good? What about $E_I > 0$?
 :::
@@ -71,6 +71,8 @@ Studies have shown that tooth extraction is an inferior good. Which measure of e
 :::
 :::
 
+## Memo
+
 
 :::{.notes}
 + By the way, what is the good that you consume more when your income increases?
@@ -91,6 +93,7 @@ Suppose due to the [15% increase]{style="color:blue;"} in the price of baseball 
 + Substitute good and complementary goods
 :::
 
+## Memo
 
 
 ## {{< fa person-chalkboard >}} In-Class Exercise: Problem 13 {.center}
@@ -117,6 +120,7 @@ If, in response to an increase in income, the quantity demanded for a particular
   + Thus, a good with an income elasticity of demand between 0 and 1 is considered a necessary good.
 :::
 
+## Memo
 
 ## The interpretation of the income elasticity of demand ($E_I$) {.center}
 
@@ -141,6 +145,8 @@ Assume you are the curator of a museum in a town. Due to the recession, the muse
 + *NOTE:* You can find a similar problem in the exercise problem 2 in Lab 6 slides (the solution is attatched). 
 :::
 
+
+## Memo
 
 ## {{< fa person-chalkboard >}} In-Class Exercise: Problem 14 (cont'd) {.center}
 
