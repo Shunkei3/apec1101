@@ -28,7 +28,7 @@ format:
 
 ## {{< fa list >}} Outlines {.center}
 
-Today, we will solve the rest of the in-class exercises from the last class (Problem 11 - 15).
+Today, we will solve the rest of the in-class exercises from the last class (Problem 11 - 15, five problems in total).
 
 
 ## Various Kinds of Elasticity: {.center}
@@ -50,7 +50,12 @@ Today, we will solve the rest of the in-class exercises from the last class (Pro
 
 
 :::{.notes}
-+ Note that the numerator of the formula is always the percentage change in the quantity demanded or supplied, and the denominator is always the percentage change in the price or income.
++ We have learned various kinds of elasticity so far.
++ Here, I want to emphasize one thing that is very important:
+  + Knowing these concepts is not enough. You need to be able to use the appropriate elasticity measure in the right context and interpret the results correctly.
++ For example, what dose the negative income elasticity mean about the nature of the good, and so on. 
++ If you understand these correctly, I think you can get full score in the next exam.
++ The fundamental idea of these elasticities is the same: they measures the responsiveness of the quantity demanded or supplied to a change in price or income.
 :::
 
 
@@ -71,6 +76,15 @@ Studies have shown that tooth extraction is an inferior good. Which measure of e
 :::
 :::
 
+:::{.notes}
++ Let's begin with Problem 11.
++ The main points of this problem are:
+  + First, you need to know what an inferior good is.
+  + Second, you need to know which measure of elasticity is appropriate to determine if a good is inferior.
++ So, let's start with the definition of an inferior good.
+:::
+
+
 ## Memo
 
 
@@ -90,8 +104,16 @@ Suppose due to the [15% increase]{style="color:blue;"} in the price of baseball 
 <br>
 
 ::: {.callout-important}
-+ Substitute good and complementary goods
+## Key Points:
++ How can we know that two goods are substitutes and complements from the cross-price elasticity of demand?
 :::
+
+:::{.notes}
++ To understand the relationship between two goods, we can use the cross-price elasticity of demand.
++ Well, that's the only approach to know the relationship between two goods. So, if you are asked to determine the relationship between two goods, you should use the cross-price elasticity of demand.
++ What's the formula for the cross-price elasticity of demand?
+:::
+
 
 ## Memo
 
