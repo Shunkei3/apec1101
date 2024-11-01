@@ -64,7 +64,7 @@ Today's Goal:
 :::
 
 + Quizzes to check your understanding
-+ Practice Exercise 2: Price elasticity of demand along a linear demand curve.
++ Practice Exercise 1: Price elasticity of demand along a linear demand curve.
 
 :::{.notes}
 + I want to start with some quizzes to check your understanding. 
