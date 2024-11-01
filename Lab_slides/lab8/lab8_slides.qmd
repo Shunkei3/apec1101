@@ -1,0 +1,221 @@
+---
+title: "Lab 8: Income Elasticity of Demand, Cross-Price Elasticity of Demand, and Price Elasticity of Supply"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+    touch: true
+---
+
+
+## outlines {.center}
+
+Today, we will solve the rest of the in-class exercises from the last class (Problem 11 - 15).
+
+
+## Various kind of elasticity: {.center}
+
++ Own Price Elasticity of Demand ($E_D$) (&larr; we practiced this a lot!)
++ Income Elasticity of Demand ($E_I$)
++ Cross-Price Elasticity of Demand ($E_{Q_B, P_A}$)
++ Price Elasticity of Supply ($E_S$)
+
+
+<br>
+
+::: {.callout-tip}
+## Key Points:
++ The basic ideas and the formula for the calculation are the very similar for all types of elasticity. The only difference is the type of relationship that is being measured.
++ [(*Important*) Understand when to use each type of elasticity, and how to interpret the results.]{.text-red}
+  + For example, what does $E_I < 0$ mean about the nature of the good? What about $E_I > 0$?
+:::
+
+
+:::{.notes}
++ Note that the numerator of the formula is always the percentage change in the quantity demanded or supplied, and the denominator is always the percentage change in the price or income.
+:::
+
+
+## {{< fa person-chalkboard >}} In-Class Exercise: Problem 11 {.center}
+
+::: {.callout-note}
+## Problem
+Studies have shown that tooth extraction is an inferior good. Which measure of elasticity would provide evidence to support this claim? What would we look for in the measurement of elasticity to determine if tooth extraction is an inferior good?
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+::: {.callout-important}
+## Key Points:
++ What is the definition of an inferior good?
++ Which measure of elasticity is appropriate to determine if a good is inferior?
+:::
+:::
+
+
+:::{.notes}
++ By the way, what is the good that you consume more when your income increases?
+:::
+
+## {{< fa person-chalkboard >}} In-Class Exercise: Problem 12 {.center}
+
+::: {.callout-note}
+## Problem
+Suppose the price of baseball bats [increases by 15%]{style="color:blue;"} and the demand for baseballs [decreases by 25%]{style="color:blue;"} What measure of elasticity best explains the relationship between baseball bats and baseballs? Compute the elasticity coefficient. 
+
+Suppose due to the [15% increase]{style="color:blue;"} in the price of baseball bats, the demand for cricket bats [increases by 20%]{style="color:blue;"}. Compute the appropriate elasticity measure that illustrates the relationship between the two goods. Why is the sign of the elasticity measure significant? Explain.
+:::
+
+<br>
+
+::: {.callout-important}
++ Substitute good and complementary goods
+:::
+
+
+
+## {{< fa person-chalkboard >}} In-Class Exercise: Problem 13 {.center}
+
+::: {.callout-note}
+## Problem
+Suppose your income [increases by 20%]{style="color:blue;"} and your quantity demanded of sugar [increases by 4%]{style="color:blue;"}; compute the appropriate elasticity measure; what can we say about sugar? 
+
+If, in response to an increase in income, the quantity demanded for a particular brand of pizza [declines by 15%]{style="color:blue;"}, compute the elasticity measure. What can you say about this specific brand of pizza? Why?
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+::: {.callout-important}
+## Key Points:
++ Understand how to interpret the income elasticity of demand of a good.
+:::
+:::
+
+:::{.notes}
++ This slower growth rate relative to income suggests the good is essential to consumers’ everyday lives; 
+  + it’s something they’ll continue to buy as income rises but won’t need in proportionately greater quantities. 
+  + Thus, a good with an income elasticity of demand between 0 and 1 is considered a necessary good.
+:::
+
+
+## The interpretation of the income elasticity of demand ($E_I$) {.center}
+
+![](z_images/ei.jpeg){fig-align="center"}
+
+
+
+## {{< fa person-chalkboard >}} In-Class Exercise: Problem 14 {.center}
+
+::: {.callout-note}
+## Problem
+Assume you are the curator of a museum in a town. Due to the recession, the museum is running short on funds, and you want to raise revenues. Would you increase or decrease the price of admission? Explain.
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+::: {.callout-important}
+## Key Points:
++ Understand that revenue decisions depend on the price elasticity of demand: inelastic demand supports price increases, while elastic demand favors price decreases.
+:::
++ *NOTE:* You can find a similar problem in the exercise problem 2 in Lab 6 slides (the solution is attatched). 
+:::
+
+
+## {{< fa person-chalkboard >}} In-Class Exercise: Problem 14 (cont'd) {.center}
+
+::: {.callout-note}
+## Problem
+Assume you are the curator of a museum in a town. Due to the recession, the museum is running short on funds, and you want to raise revenues. Would you increase or decrease the price of admission? Explain.
+:::
+
+<br>
+
+$$Revenue = P \times Q$$
+
+By the law of demand, we know that the quantity demanded will decrease when the price increases. 
+
+:::{.fragment .fade-up}
+[But to the extent of the responsiveness of the quantity demanded to the price change, the total revenue will increase or decrease.]{.text-blue}
+:::
+
+:::{.fragment .fade-right}
+&rarr; [Thus, we need to know the price elasticity of demand to determine whether to increase or decrease the price.]{.text-red}
+:::
+
+
+:::{.notes}
++ For example, 
+  + if quantity demanded decreases by 10% when the price increases by 20%, the total revenue will increase by about 10%. 
+  + if quantity demanded decreases by 30% when the price increases by 20%, the total revenue will decrease by about 10%.
+:::
+
+
+
+
+## Elasticity and the Effect of a Price Change on Revenue {.center}
+
+![](z_images/revenue.png){fig-align="center"}
+
+:::{.fragment .fade-up}
+::: {.callout-important}
+### Key Points:
+[To increase revenue: (i) price should be increased when the demand is inelastic, or (ii) price should be decreased when the demand is elastic]{.text-orange}
+:::
+:::
+
+:::{.notes}
++ Recall the meaning of the elastic and inelastic demand.
++ When the demand is elastic, 
+  + the demand is very responsive to the price change. So, if we increase the price, the quantity demanded will decrease significantly, as a consequent, the total revenue will decrease. 
+  + Meanwhile, if we decrease the price, the quantity demanded wil increase more than the price decrease, so the total revenue will increase.
+  + Therefore, when the demand is elastic, we should decrease the price to increase the total revenue.
+:::
+
+## {{< fa person-chalkboard >}} In-Class Exercise: Problem 15 {.center}
+
+::: {.callout-note}
+## Problem
+Define the following:
+
+a. Own Price Elasticity of Demand
+
+:::{.fragment .fade-up}
++ [The responsiveness of the quantity demanded of a good to a change in its price.]{.text-blue}
+:::
+
+b. Cross Price Elasticity of Demand
+
+:::{.fragment .fade-up}
++ [The responsiveness of the quantity demanded of a good to a change in the price of another good.]{.text-blue}
+:::
+
+c. Income Elasticity of Demand
+
+:::{.fragment .fade-up}
++ [The responsiveness of the quantity demanded of a good to a change in income.]{.text-blue}
+:::
+:::
+
+
+
