@@ -1,0 +1,292 @@
+---
+title: "Lab 9: Consumer Choice and Demand"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+    touch: true
+---
+
+## Announcement {.center}
+
++ Extra Credit Assignment is due on **April 11th (Monday)**.
+  + [**Submit your assignment on Canvas**]{.text-red}. 
+  + On the Canvas page, go "Assignments" -> "Extra Credit Assignment" -> "Start Assignment" -> Click  "Submit Assignment" after you uploaded your assignment.
+  + You can take photos, converted them to PDF, and upload it.
+
+
+:::{.notes}
+
+
+:::
+
+## This Week's Key Concepts {.center} 
+
+::: {.callout-important}
+## Important Concepts {.center}
++ Utility
++ Marginal utility
++ Law of diminishing marginal utility
++ According to the rational choice rule, how does a consumer choose the combination of goods and services?
+:::
+
+
+:::{.notes}
++ Marginal utility: the amount by which total utility changes when consumption changes by one unit.
+:::
+
+
+
+## {{< fa list >}} Outlines {.center}
+
++ Quick Review of the Utility Theory
++ Exercise Problem
+
+
+## Quick Review
+
+In economics, we use the concept of [**utility**]{.text-red} to measure the satisfaction that consumers derive from the consumption of goods and services.
+
+<br>
+
+:::{.fragment .fade-up}
+:::{.ideas}
+::::{.ideas-header}
+Some Important Concepts
+::::
+::::{.ideas-container}
++ [**Total utility**]{.text-red} denotes the total amount of satisfaction derived from the consumption of a good or service. 
+  + This is what consumers are trying to maximize.
++ [**Marginal utility**]{.text-red} is the change in total utility that results from the consumption of one more unit of a good or service.
+
+$$MU = \frac{\Delta TU}{\Delta Q}$$
+
++ [**Law of diminishing marginal utility**]{.text-red}: The principle that as a person consumes more of a good, the marginal utility from each additional unit of the good declines.
+::::
+:::
+:::
+
+:::{.notes}
++ 
++ For example, suppose that you're really thirsty and you drink a bottle of water. The first bottle of water will give you a lot of satisfaction.
+:::
+
+
+## How Consumers Make Choices
+
+In economics, we assume the following rule to explain how rational consumers make choices:
+
+:::{.ideas}
+::::{.ideas-header}
+Rational Choice Rule
+::::
+::::{.ideas-container}
+Rational consumers choose the combination of goods and services that maximizes their total utility, given their income and the prices of goods and services.
+::::
+:::
+
+At the utility-maximizing combination of goods and services, [the marginal utility per dollar]{.text-blue} spent on each good and service is the same.
+
+$$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
+
++ [**Marginal utility per dollar** (MU/P)]{.text-red} : the additional utility (or satisfaction gain) from spending one more dollar on a good or service.
+
+
+:::{.fragment .fade-up}
+:::{.stopthink}
+::::{.stopthink-header}
+Think like this.
+::::
+::::{.stopthink-container}
+Just like an investor would look at the rate of return on an investment to decide where to put their money, [a consumer can look at the marginal utility per dollar to decide where to spend their budget to get the best “return” in terms of utility]{.text-blue}.
+::::
+:::
+:::
+
+:::{.notes}
+In economic terms, marginal utility per dollar tells us the additional satisfaction (or utility) that each extra dollar generates when spent on a good. Just like an investor would look at the rate of return on an investment to decide where to put their money, a consumer can look at the marginal utility per dollar to decide where to spend their budget to get the best “return” in terms of utility.
+
++ Well, although we don't usually think about it in this way, but economists model consumers' decision making in this way.
+:::
+
+
+
+## Rational Choice Rule: Marginal Utility per Dollar
+
+At the utility-maximizing combination of goods and services, [the marginal utility per dollar]{.text-blue} spent on each good and service is the same:
+
+$$\frac{MU_x}{P_x} = \frac{MU_y}{P_y}$$
+<!-- We compare the marginal utility per dollar spent on each good and service. -->
+
+<br> 
+
+:::{.fragment .fade-up}
+### What does this mean?
++ Since consumers have limited income, they must choose the combination of goods and services that gives them the most satisfaction.
++ Specifically, consumers allocate their every dollar to the good or service that gives them the higher satisfaction.
+
+  + If $\frac{MU_x}{P_x} > \frac{MU_y}{P_y}$, then the consumer should buy more of good $x$ over good $y$.
+  + If $\frac{MU_x}{P_x} < \frac{MU_y}{P_y}$, then the consumer should buy more of good $y$ over good $x$.
+
+
+:::{.fragment .fade-right}
++ Eventually, the consumer will reach the point where the marginal utility per dollar spent on each good is the same.
+:::
+:::
+
+:::{.fragment .fade-up}
+[We compare the marginal utility per dollar spent on each good and service to maximize the total utility.]{.text-red}
+
+Let's practice!
+:::
+
+##
+
+::: {.callout-note}
+### {{< fa person-chalkboard >}} **Exercise Problem**
+
+
+Zander has a weekly allowance of \$24, all of which he spends on pizza and movie rentals, whose prices are \$6 amd \$3 per rental, respectively, we assume that pizza slices and movie rentals are available only in whole-number amounts.
+
+(a) List all possible combinations of the two goods that Zander can purchase each week with his allowance.
+
+(b) Zander's total utility is the sum of the utility he derives from pizza and movie rentals. If these utilities vary with the amounts consumed as shown in the table, and pizza slices and movie rentals are again consumable only in whole-number amounts, how many pizza slices and how many movie rentals should Zander consume each week?
+
+
+| Pizza slices (/week) | Utils/week from pizza | Movie rentals | Utils/week from rentals |
+| -------------------- | --------------------- | ------------- | ----------------------- |
+| 0                    | 0                     | 0             | 0                       |
+| 1                    | 20                    | 1             | 40                      |
+| 2                    | 36                    | 2             | 46                      |
+| 3                    | 48                    | 3             | 50                      |
+| 4                    | 58                    | 4             | 54                      |
+| 5                    | 66                    | 5             | 56                      |
+| 6                    | 72                    | 6             | 57                      |
+| 7                    | 76                    | 7             | 57                      |
+| 8                    | 78                    | 8             | 57                      |
+:::
+
+## Exercise Problem - Part (a)
+
+::: {.callout-note}
+## Part (a)
+List all possible combinations of the two goods that Zander can purchase each week with his allowance.
+:::
+
+Let's define:
+
++ $x$: Number of pizza slices
++ $y$: Number of movie rentals
+
+Since each pizza slice costs $\$6$ and each movie rental costs $\$3$, the budget constraint is:
+
+$$6x + 3y \leq 24$$
+So,
+
++ If $x = 0$, then $3y \leq 24$ &rarr; $y \leq 6$.
++ If $x=1$, then $3y \leq 18$ &rarr; $y \leq 6$.
++ If $x=2$, then $3y \leq 12$ &rarr; $y \leq 4$.
++ If $x=3$, then $3y \leq 6$ &rarr; $y \leq 2$.
++ If $x=4$, then $3y \leq 0$ &rarr; $y \leq 0$.
+
+
+## Exercise Problem - Part (b)
+
+::: {.callout-note}
+## Part (b)
+How many pizza slices and how many movie rentals should Zander consume each week?
+
+<br>
+
+| Pizza slices (/week) | Utils/week from pizza | Movie rentals | Utils/week from rentals |
+| -------------------- | --------------------- | ------------- | ----------------------- |
+| 0                    | 0                     | 0             | 0                       |
+| 1                    | 20                    | 1             | 40                      |
+| 2                    | 36                    | 2             | 46                      |
+| 3                    | 48                    | 3             | 50                      |
+| 4                    | 58                    | 4             | 54                      |
+| 5                    | 66                    | 5             | 56                      |
+| 6                    | 72                    | 6             | 57                      |
+| 7                    | 76                    | 7             | 57                      |
+| 8                    | 78                    | 8             | 57                      |
+:::
+
+
+
+## There are Two approaches:
+
+:::{.fragment .fade-up}
+::: {.callout-tip}
+## Approach 1. Exhaustive Search by Calculating Total Utility for Each Combination
+
+1. List all possible combinations of pizza slices and movie rentals that Zander can afford with his $24 budget.
+2. Calculate the total utility for each combination.
+3. Compare the total utility values and select the combination with the highest total utility.
+:::
+:::
+
+<br>
+
+:::{.fragment .fade-up}
+::: {.callout-tip}
+## Approach 2.  Compare Marginal Utility per Dollar to Reach Utility Maximization
+1.	Start by calculating the marginal utility per dollar for each additional unit of pizza and movie rentals. This is done by dividing the marginal utility of each additional pizza slice and rental by their respective prices.
+2. Compare the marginal utility per dollar for each unit of pizza and each unit of movie rental.
+3. Spend Zander’s budget incrementally, choosing the item that provides the highest marginal utility per dollar until the budget is exhausted, while keeping track of total utility.
+4. Continue until the marginal utility per dollar is balanced across both goods or until the budget is fully allocated.
+:::
+:::
+
+
+:::{.fragment .fade-left}
+[The second approach (using marginal utility per dollar) conceptually demonstrates how consumers make decisions by balancing marginal utility per dollar across goods.]{.text-red}
+:::
+
+:::{.notes}
++ Although the first approach is more straightforward, the second approach is more conceptually aligned with how consumers make decisions.
+
+:::
+
+# Common Mistakes in Quiz 2
+
+## Quiz 2: Review
+
+::: {.callout-tip}
+## Problem 2.c 
+When the income elasticity exceeds 1, the good must be highly elastic. True or False?
+:::
+
+**False**: A good can be income elastic without being highly elastic. 
+
++ For examples:
+  + Brand loyalty: When consumers are highly loyal to a specific luxury brand, they may be less sensitive to price changes. 
+
+<br>
+
+::: {.callout-tip}
+## Problem 2.d
+
+If the coefficient of price elasticity of demand is zero it implies price is fixed. True or False?
+:::
+
+**False**: A price elasticity of zero means that the quantity demanded does not change when the price changes. If the price is fixed ($\% \Delta P=0$), the price elasticity of demand is infinite (perfectly elastic)!
+
+
