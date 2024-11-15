@@ -158,9 +158,9 @@ Indifference Curve
 :::{.columns}
 :::{.column width="50%"}
 
-$$
-\left. MRS \text{ for good X for good Y} = \frac{\Delta Y}{\Delta X} \right|_{U=\bar{u}} = \left| \frac{MU_X}{MU_Y} \right|
-$$
+\begin{align*}
+\left. MRS \text{ for good X for good Y} = \frac{\Delta Y}{\Delta X} \right \vert_{U=\bar{u}} = \left| \frac{MU_X}{MU_Y} \right|
+\end{align*}
 
 
 + The [**MRS of good X for good Y**]{.text-red} indicates [how much of good Y a consumer is willing to give up in exchange for one more unit of good X while maintaining the same level of utility]{.text-blue}.
@@ -275,24 +275,25 @@ Utility is maximized when the indifference curve is tangent to the budget constr
 
 ## In-class Exercise Problem 1 (Cont'd) 
 
-2. **Given the utility-maximizing combination you just found, what is the marginal rate of substitution of Chicken Sandwiches for French Fries?**
+2. **What is the marginal rate of substitution of French Fries for Chicken Sandwiches at this utility-maximizing combination?**
 
 <br>
+
 :::{.fragment .fade-up}
 
 ::: {.callout-tip} 
 ## Recall that
-+ The marginal rate of substitution of Chicken Sandwiches for French Fries means how many French Fries the consumer is willing to give up in exchange for one more Chicken Sandwiches while maintaining the same level of utility.
++ The marginal rate of substitution of French Fries for Chicken Sandwiches means how many Chicken Sandwiches the consumer is willing to give up to get one more French Fries while maintaining the same level of utility.
 
-+ Recall that the MRS equals the same as the slope of the budget constraint at the utility-maximizing combination.
++ Recall that [the MRS equals the same as the slope of the budget constraint at the utility-maximizing combination.]{.text-red}
 :::
 
-From part (1), we found that the utility-maximizing combination is (CS, FF) = (1, 6) is 
-
+Since the budget constraint is given by: $2FF + 6 CS \leq 18$, the slope of the budget constraint is $-1/3$.
 \begin{align*}
-\text{MRS} =  = \frac{1}{3}
+\text{MRS} =  |\text{slope of the budget line} = |-1/3| = 1/3
 \end{align*}
 
+, meaning that the consumer is willing to give up 3 French Fries to get one more Chicken Sandwiches.
 
 :::
 
