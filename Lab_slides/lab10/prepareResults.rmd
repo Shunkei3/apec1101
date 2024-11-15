@@ -1,0 +1,158 @@
+```{r}
+library(here)
+library(data.table)
+library(foreach)
+library(ggplot2)
+library(dplyr)
+library(gganimate)
+library(ggtext)
+library(gifski)
+# library(gapminder)
+```
+
+```{r,cache=FALSE}
+plot_theme <-
+  theme(
+    # axis.text.x=element_blank(),
+    axis.ticks.x=element_blank(),
+    # axis.text.y=element_blank(),
+    axis.ticks.y=element_blank(),
+    legend.title=element_blank(),
+    legend.position="bottom",
+    plot.title = element_text(hjust = 0.5)
+    )
+```
+
+```{r}
+# /*===== BC line =====*/
+gen_BC_dt <- function(p_x, p_y, w_x, w_y){
+  x_intc <- w_x + p_y/p_x * w_y
+  y_intc <- p_x/p_y * w_x + w_y
+
+  budget_dt <-
+    data.table(
+      x = seq(0, x_intc, by = 0.1),
+      type = "Budget constraint"
+    ) %>%
+    .[, y := - p_x/p_y * x +  p_x/p_y * w_x + w_y]
+
+  return(budget_dt)
+}
+
+```
+
+# HW2, Problem2
+
+## Consumer 1's Demand
+```{r, cache=FALSE}
+ls_u1_bar <- seq(2, 6, by=0.5)
+
+# /*===== BC data =====*/
+bc1_dt <- 
+  foreach(i = 1:length(ls_u1_bar), .combine="rbind") %do%{
+    temp_bc1_dt <- 
+      gen_BC_dt(
+        p_x=6, p_y=3, w_x=3, w_y=0
+      ) %>%
+      .[,`:=`(
+        time = i,
+        u_bar = ls_u1_bar[i]
+        )] %>%
+      setnames(c("x", "y"), c("x1", "y1")) 
+    return(temp_bc1_dt)
+}
+
+# /*===== IC data =====*/
+u1_dt <- 
+  foreach(i = 1:length(ls_u1_bar), .combine="rbind") %do%{
+    u_bar <- ls_u1_bar[[i]]
+
+    temp_u1_dt <- 
+      data.table(
+        x1 = seq(0, max(bc1_dt$x1) + 0.5, by=0.05),
+        type = "Indifference curve",
+        time = i,
+        u_bar = ls_u1_bar[i]
+      ) %>%
+      .[, y1 := u_bar/x1] %>%
+      .[y1 <= max(bc1_dt$y1),]
+
+    return(temp_u1_dt)
+}
+
+p1_u_bc_dt <- rbind(u1_dt, bc1_dt)
+
+
+# p1_u_bc_dt[, .(max(y1)), by = u_bar]
+# p1_u_bc_dt[u_bar==4.5 & y1 == max(y1),]
+
+# plot(bc1_dt$x1, bc1_dt$y1)
+```
+
+
+```{r, eval=F, cache=FALSE}
+p1_annimate <- 
+  ggplot(data=p1_u_bc_dt)+
+  geom_line(
+    aes(x=x1, y=y1, group=type, color=type),
+    size = 1.5
+    )+
+  # --- initial endowment --- #
+  # annotate("point", x = 4, y = 0, colour = "red", size=2)+
+  # annotate("text", x = 4.1, y = 0, label = expression(omega["1"]))+
+  # --- animation --- #
+  theme_bw() +
+  labs(
+    title = "Where is the utility maximizing bundle?",
+    x = "Chicken Sandwiches", 
+    y = "French Fries"
+  )+
+  xlim(0,3)+ ylim(0,6)+
+  # coord_equal(ratio = 1) +
+  # plot_theme+
+  theme(
+    # axis.text.x=element_blank(),
+    axis.ticks.x=element_blank(),
+    # axis.text.y=element_blank(),
+    axis.ticks.y=element_blank(),
+    legend.title=element_blank(),
+    legend.position="bottom",
+    plot.title = element_text(hjust = 0.5)
+    )+
+  transition_time(time) +
+  ease_aes('linear')
+
+anim_save(
+  here("Lab_slides/lab10/z_images/p1_annimate.gif"), 
+    p1_annimate,
+    fps=20
+)
+
+
+```
+
+```{r}
+opt_p1_u_bc_dt <- p1_u_bc_dt[u_bar==4.5,]
+
+plot_opt_p1 <- 
+  ggplot(data=opt_p1_u_bc_dt)+
+  geom_line(
+    aes(x=x1, y=y1, group=type, color=type),
+    size = 1.5
+    )+
+  theme_bw() +
+  labs(
+    title = "Where is the utility maximizing bundle?",
+    x = "Chicken Sandwiches", 
+    y = "French Fries"
+  )+
+  xlim(0,3)+ ylim(0,6)+
+  plot_theme
+  # coord_equal(ratio = 1)
+
+plot_opt_p1
+## Consumer 2's problem
+
+### Case I
+
+```

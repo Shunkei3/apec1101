@@ -1,0 +1,253 @@
+---
+title: "Lab 10: Consumer Choice and Demand - Part 2"
+subtitle: "APEC 1101 - Applied Economics, University of Minnesota"
+author: "Shunkei Kakimoto"
+format: 
+  revealjs:
+    embed-resources: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: 
+      - simple 
+      - ../../z_slide_style/styles_large.scss
+    fontsize: 1.8rem
+    callout-icon: false
+    scrollable: true
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+    fig-dpi: 400
+    chalkboard: true
+    preview-links: false
+    touch: true
+---
+
+```{r, cache=FALSE}
+#| label: setup
+#| include: false
+#| eval: false
+knitr::knit_child("PrepareResults.rmd", quiet = TRUE)
+```
+
+## Announcement {.center}
+
++ Assignment 3 is due on [**Wednesday, November 20**]{.text-red}.
+  + [**Please Submit your assignment on Canvas!!**]{.text-red}. 
+  + On the Canvas page, go "Assignments" -> "Extra Credit Assignment" -> "Start Assignment" -> Click  "Submit Assignment" after you uploaded your assignment.
+  + You can take photos, converted them to PDF, and upload it.
+
+
+## Consumer Choice and Demand {.center} 
+
+::: {.callout-important}
+## Important Concepts {.center}
++ Utility
++ Marginal utility
++ Law of diminishing marginal utility
++ According to the rational choice rule, how does a consumer choose the combination of goods and services?
++ [Income Effects (new!)]{.text-orange}
++ [Substitution Effects (new!)]{.text-orange}
++ [Indifference curve (new!)]{.text-orange}
++ [Marginal rate of substitution (new!)]{.text-orange}
++ [Law of diminishing marginal rate of substitution (new!)]{.text-orange}
+:::
+
+
+:::{.notes}
++ Marginal utility: the amount by which total utility changes when consumption changes by one unit.
+:::
+
+
+## {.center} 
+
+:::{.goals}
+::::{.goals-header}
+Today's Goals
+::::
+::::{.goals-container}
++ To be able to solve the utility maximizing problem using the rational choice rule.
++ To understand the concepts of indifference curve and the marginal rate of substitution
++ To be able to find the marginal rate of substitution at the utility-maximizing combination.
+::::
+:::
+
+<br>
+
+
+### {{< fa list >}} Outlines
+
++ In-class Exercise Problem 1
+  + Review of the concept of indifference curve and the marginal rate of substitution
++ In-class Exercise Problem 4a
++ In-class Exercise Problem 2 and 3 (if we have time)
+
+## {.center}
+
+Let me know if you have not received the today's handout.
+
+
+## In-class Exercise Problem 1 - Modified
+
+| Chicken Sandwiches (CS)   | Utility from CS                 | French Fries (FF) | Utility from FF          |
+| -------------------- | --------------------- | ------------- | ----------------------- |
+| 0                    | 0                     | 0             | 0                       |
+| 1                    | 15                    | 1             | 11                      |
+| 2                    | 25                    | 2             | 21                      |
+| 3                    | 31                    | 3             | 30                      |
+| 4                    | 34                    | 4             | 37                      |
+| 5                    | 36                    | 5             | 42                      |
+|                      |                       | 6             | 47                      |
+|                      |                       | 7             | 51                      |
+|                      |                       | 8             | 53                      |
+|                      |                       | 9             | 55                      |
+|                      |                       | 10            | 56                      |
+
+1. **When the price of Chicken Sandwiches is $6 and the price of French Fries is $2 and the consumer's income is \$18, the consumer's utility-maximizing combination is (CS, FF) = (1, 6). Suppose that the price of French Fries increases to \$3, ceteris paribus. Does the consumer's utility-maximizing combination change? In order to attain a utility-maximizing combination, how will the consumer's consumption combination change?**
+
+
+## In-class Exercise Problem 1 - Modified (Cont'd)
+
+2. **Given the utility-maximizing combination you just found, what is the marginal rate of substitution of Chicken Sandwiches for French Fries?**
+
+<br>
+
+:::{.fragment .fade-up}
+Before we start solving the problem, I want to check some important concepts with you.
+:::
+
+
+## 
+
+:::{.ideas}
+::::{.ideas-header}
+Indifference Curve
+::::
+::::{.ideas-container}
+**An indifference curve represents all the combinations of goods that give the consumer the same level of total utility**.
+
++ You can think of indifference curves like contour lines on a map in that they represent lines of equal "altitude" of utility.
+::::
+:::
+
+
+<br>
+
+### Important Characteristics that you should know (important!!)
+
+:::{.fragment .fade-right}
+1. The shape of an indifference curve is convex to the origin (downward sloping).
+:::
+:::{.fragment .fade-right}
+2. The absolute value of the slope of the indifference curve is the marginal rate of substitution (MRS) and it diminishes as we move down along the curve. (**Diminishing Marginal Rate of Substitution**)
+:::
+:::{.fragment .fade-right}
+3. The level of utility represented by each curve increases as we move in a northeast direction.
+:::
+
+
+## Marginal Rate of Substitution
+
+:::{.columns}
+:::{.column width="50%"}
++ The **MRS of good X for good Y** indicates [how much of good Y a consumer is willing to give up in exchange for one more unit of good X while maintaining the same level of utility]{.text-blue}.
+
+<br>
+
+
++ It diminishes as we move down along the curve. (i.e., **Diminishing Marginal Rate of Substitution**)
+
+:::{.fragment .fade-up}
+&rarr; For example. If you have less amount of Chicken Sandwiches, you are willing to give up more French Fries to get one more Chicken Sandwiches.
+:::
+
+:::
+:::{.column width="50%"}
+
+![](./z_images/ic0.jpeg){fig-width="40%" fig-align="center"}
+
+$$|\text{Slope of } l_1| > |\text{Slope of } l_2|$$
+$$ \rightarrow MRS_{l_1} > MRS_{l_2}$$
+:::
+:::
+
+
+## Indifference Curve Map {.center}
+
+There are lots of indifference curves representing different levels of utility!
+
+![](./z_images/ic.jpeg){fig-width="70%" fig-align="center"}
+
+
+## Utility Maximization: Indifference Curve and Budget Constraint {.center}
+
+::: {.callout-important}
+## I want you to understand the following concepts:
+
+1. The [marginal rate of substitution (MRS)]{.text-red} is the slope of the indifference curve.
+
++ it represents rate at which a consumer is willing to trade one good for another while maintaining the same level of utility.
+
+2. When the consumer is maximizing utility, [his indifference curve is tangent to the budget constraint]{.text-red}.
+
+3. Therefore, [the MRS at the utility-maximizing combination is equal to the slope of the budget constraint]{.text-red}.
+:::
+
+
+
+
+## Graphical Explanation
+
+![](./z_images/p1_annimate.gif){fig-align="center"}
+
+
+## Utility Maximizing Combination
+
+Utility is maximized when the indifference curve is tangent to the budget constraint.
+
+![](./z_images/plot.png){fig-align="center"}
+
+
+
+## In-class Exercise Problem 1 (Cont'd) 
+
+:::{.fragment .fade-up}
+:::{.ideas}
+::::{.ideas-header}
+Marginal Rate of Substitution (MRS)
+::::
+::::{.ideas-container}
+Marginal Rate of Substitution (MRS) of good X for good Y means the rate at which a consumer is willing to trade good X for good Y while remaining indifferent. 
+
++ Remember that an indifference curve shows all the combinations of goods that give the consumer the same level of utility. So, **the slope of the indifference curve is the MRS**.
+::::
+::
+
+
+
+
+
+## In-class Exercise Problem 4a
+
+
+Assume Tim purchases milk, and eggs, a gallon of milk costs \$5 and each egg costs \$1. Assume that Tim's utility-maximizing combination is (milk, eggs) = (4, 10).
+
+Draw a budget constraint for Tim who has a weekly income of \$30. Also, draw an appropriate indifference curve for Tim when he is maximizing his utility (Your indifference curve does not have to be precise, but it should have some specific characteristics). 
+
+
+## In-class Exercise Problem 2 and 3 (if we have time)
+
+Suppose Coop allocates his budget of \$120 to purchase two goods, T-shirts and CD rentals. A T-shirt costs \$8 and a CD rental costs \$6. 
+
+(1) Draw Coop's budget constraint. What is the slope of the budget constraint?
+
+(2) Assume for T-shirts, $MU/P = 5$; for CD rentals, $MU/P = 4$. Is Coop maximizing his utility? Explain briefly.
+
+
+
+
+
+
+
