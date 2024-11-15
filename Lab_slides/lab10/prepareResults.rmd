@@ -45,14 +45,14 @@ gen_BC_dt <- function(p_x, p_y, w_x, w_y){
 
 ## Consumer 1's Demand
 ```{r, cache=FALSE}
-ls_u1_bar <- seq(2, 6, by=0.5)
+ls_u1_bar <- seq(2, 8, by=0.5)
 
 # /*===== BC data =====*/
 bc1_dt <- 
   foreach(i = 1:length(ls_u1_bar), .combine="rbind") %do%{
     temp_bc1_dt <- 
       gen_BC_dt(
-        p_x=6, p_y=3, w_x=3, w_y=0
+        p_x=2, p_y=6, w_x=9, w_y=0
       ) %>%
       .[,`:=`(
         time = i,
@@ -95,7 +95,7 @@ p1_annimate <-
   ggplot(data=p1_u_bc_dt)+
   geom_line(
     aes(x=x1, y=y1, group=type, color=type),
-    size = 1.5
+    linewidth = 1.5
     )+
   # --- initial endowment --- #
   # annotate("point", x = 4, y = 0, colour = "red", size=2)+
@@ -104,10 +104,10 @@ p1_annimate <-
   theme_bw() +
   labs(
     title = "Where is the utility maximizing bundle?",
-    x = "Chicken Sandwiches", 
-    y = "French Fries"
+    x = "French Fries",
+    y = "Chicken Sandwiches", 
   )+
-  xlim(0,3)+ ylim(0,6)+
+  xlim(0,9)+ ylim(0,3)+
   # coord_equal(ratio = 1) +
   # plot_theme+
   theme(
@@ -132,7 +132,7 @@ anim_save(
 ```
 
 ```{r}
-opt_p1_u_bc_dt <- p1_u_bc_dt[u_bar==4.5,]
+opt_p1_u_bc_dt <- p1_u_bc_dt[u_bar==4.25,]
 
 plot_opt_p1 <- 
   ggplot(data=opt_p1_u_bc_dt)+
@@ -143,10 +143,10 @@ plot_opt_p1 <-
   theme_bw() +
   labs(
     title = "Where is the utility maximizing bundle?",
-    x = "Chicken Sandwiches", 
-    y = "French Fries"
+    x = "French Fries",
+    y = "Chicken Sandwiches", 
   )+
-  xlim(0,3)+ ylim(0,6)+
+  xlim(0,9)+ ylim(0,3)+
   plot_theme
   # coord_equal(ratio = 1)
 
